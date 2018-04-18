@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wisconsin Weed Science</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Wisconsin Weed Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 WiscWeeds</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 Wisconsin Cropping Systems Weed Science Survey - Where are we at?</title>
+      <link>/post/2018-wisconsin-cropping-systems-weed-science-survey/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-wisconsin-cropping-systems-weed-science-survey/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and
+Maxwel Oliveira (UW-Madison Weed Science Postdoctoral Research Associate)
+Introduction The objective of our survey was to evaluate the main weed species and management strategies adopted in Wisconsin cropping systems, particularly in corn and soybeans. The survey was conducted this winter during the 2018 Wisconsin Agronomy Update Meetings, held across the state. A total of 286 respondents, representing 54 counties, completed the survey.</description>
+    </item>
+    
+    <item>
+      <title>Welcoming New WiscWeeds Team Members</title>
+      <link>/post/welcoming-new-wiscweeds-team-members/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcoming-new-wiscweeds-team-members/</guid>
+      <description>I am excited to introduce and welcome the new members of the Wisconsin Cropping Systems Weed Science (WiscWeeds) Program: Maxwel Oliveira, Ryan DeWerff, Sarah Striegel, Victor Ribeiro and Nikola Arsenijevic.  Dr. Maxwel Coura Oliveira (Postdoctoral Research Associate)
+Maxwel started at the University of Wisconsin-Madison as a Weed Science Postdoctoral Research Associate in January 2018 in Dr. Werle’s program. Maxwel was born in the state of Minas Gerais, Brazil. He earned his B.</description>
+    </item>
+    
+  </channel>
+</rss>
