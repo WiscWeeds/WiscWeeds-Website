@@ -66,11 +66,11 @@ ________________________________________________________________________________
 ## **Lessons learned from the survey**
 + Wisconsin cropping systems are very diversified in terms of crop rotation and tillage is a common strategy. The combination of crop rotation and tillage has likely helped postpone the selection for herbicide-resistant weeds (when comparing to the situation in neighboring states). Thus, Wisconsin farmers, continue to do what you have been doing, it's working!  
 
-+ Despite the "delayed" arrival, herbicide-resistant weeds are here to stay, and perhaps more widespread thnn some of us may think (check this presentation: [**2018 Update on Herbicide Resistant Weeds in Wisconsin**] (https://www.youtube.com/watch?v=HR1KFvHgYr0)). In order to manage herbicide-resistant weeds, besides continuing to deploy integrated weed management strategies (e.g., crop rotations, tillage, cover crops), farmers may have to consider adjusting their herbicide programs. A two pass program may be necessary to control the troublesome weed species with extended emergence window we are dealing with (e.g., waterhemp, giant ragweed, common lambsquarters). The addition of herbicides with soil residual activity in herbicide programs will enhance the control of these troublesome weeds and reduce the selection pressure on POST-emergence herbicides.
++ Despite the "delayed" arrival, herbicide-resistant weeds are here to stay, and perhaps more widespread than some of us may think (check this presentation: [**2018 Update on Herbicide Resistant Weeds in Wisconsin**] (https://www.youtube.com/watch?v=HR1KFvHgYr0)). In order to manage herbicide-resistant weeds, besides continuing to deploy integrated weed management strategies (e.g., crop rotations, tillage, cover crops), farmers may have to consider adjusting their herbicide programs. A two pass program may be necessary to control the troublesome weed species with extended emergence window we are dealing with (e.g., waterhemp, giant ragweed, common lambsquarters). The addition of herbicides with soil residual activity in herbicide programs will enhance the control of these troublesome weeds and reduce the selection pressure on POST-emergence herbicides.
 
 + For assistance with herbicide selection, check:  
 [**Pest Management in Wisconsin Field Crops**] (http://learningstore.uwex.edu/Assets/pdfs/A3646.pdf) 
-UWEX Bulletin A3646 (PDF) 
+UWEX Bulletin A3646 (PDF)  
 [**Wisconsin Herbicide Mode of Action Chart**] (http://ipcm.wisc.edu/download/pubsPM/Herbicide-Mode-of-Action.pdf) (PDF)  
 Always read the product label. 
 
