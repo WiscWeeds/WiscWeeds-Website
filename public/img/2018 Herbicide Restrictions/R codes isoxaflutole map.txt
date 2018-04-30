@@ -1,0 +1,21 @@
+# Maps for herbicide resistance survey
+
+library(maps)
+library(PBSmapping)
+
+map("county","wisconsin")
+map.axes()
+
+# Get County Data
+m <- map('county', 'wisconsin', plot=FALSE)
+names(m)
+m$names   # State,County names
+
+# color the counties
+map("county", m$names[c(11,13,20,28,56,22,33,64,14,23,53,67)], fill=TRUE, col=c(4), add=TRUE)
+map("county", m$names[c(24)], fill=TRUE, col=c("white"), add=TRUE)
+
+title("Isoxaflutole approved counties in Wisconsin")
+m$names[c(11,13,20,28,56,22,33,64,14,23,53,67)]
+# Columbia, Dane, Fond du Lac, Jefferson, Sauk, Grant, Lafayette, Walworth, Dodge, Green, Rock, and Waukesha. 
+map.scale(-89.5,46.7, ratio=FALSE, relwidth=0.2,metric=F, cex=1)
