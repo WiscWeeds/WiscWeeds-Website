@@ -1,7 +1,7 @@
 ---
 title: 2018 Wisconsin Cropping Systems Weed Science Survey - Where are we at?
 author: ''
-date: '2018-04-18'
+date: '2018-04-18' 
 slug: 2018-wisconsin-cropping-systems-weed-science-survey
 categories: []
 tags: []
