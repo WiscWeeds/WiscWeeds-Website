@@ -13,7 +13,7 @@ header:
   image: '2018 cc rye termination/header.jpg'
 ---
 by [Rodrigo Werle] (https://agronomy.wisc.edu/rodrigo-werle/) (UW-Madison Extension Cropping Systems Weed Scientist) and
-[Dan Smith] (http://ipcm.wisc.edu/contacts/) UW NPM Southwest Wisconsin Regional Specialist
+[Dan Smith] (http://ipcm.wisc.edu/contacts/) (UW NPM Southwest Wisconsin Regional Specialist)
 
 
 Fall-planted cereal rye is increasingly used as a cover crop to protect the soil during winter and spring in corn and soybean cropping systems across the Midwest. Our recent [**survey**] (http://www.wiscweeds.info/post/2018-wisconsin-cropping-systems-weed-science-survey/) indicated that 77% of Wisconsin farmers and Ag professionals are interested in cover crops. 
@@ -54,7 +54,7 @@ According to research conducted in Pennsylvania, roller-crimpers can be used eff
 
 For additional information on roller-crimpers, watch the video: [**Advances using the roller-crimper for organic no-till in Wisconsin**] (https://www.youtube.com/watch?v=UtxH4CJa-jk). 
 
-## **Final considerations**
+# **Final considerations**
 
 +	If glyphosate is used for cereal rye termination, it should be sprayed when day temperatures are above 55° F and night temperatures are above 40° F. For more effective cereal rye control, glyphosate should be applied before the boot stage. 
 
