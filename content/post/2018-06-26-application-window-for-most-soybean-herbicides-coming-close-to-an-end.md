@@ -6,7 +6,7 @@ slug: application-window-for-most-soybean-herbicides-coming-close-to-an-end
 categories: []
 tags: []
 
-summary: 'Excessive and constant rainfall through the season thus far across southern Wisconsin has challenged timely herbicide applications. Though the application window is getting shorter, wait for the right opportunity (don’t spray under marginal conditions).'
+summary: 'Excessive and constant rainfall through the season thus far across southern Wisconsin has challenged timely herbicide applications. Though the application window is getting shorter, wait for the right opportunity to spray and adjust herbicide program if necessary (don’t spray under marginal conditions).'
 
 header:
   caption: ''
@@ -26,6 +26,6 @@ Though the application window is getting shorter, wait for the right opportunity
 For assistance identifying soybean growth stages, see: [**“A Visual Guide to Soybean Growth Stages”**] (http://www.coolbean.info/library/documents/2017_Soybean_GrowthDev_Guide_FINAL.pdf). 
 
 
-For assistance with herbicide selection, see: [**Pest Management in Wisconsin Field Crops (UWEX Bulletin A3646)**] (http://learningstore.uwex.edu/Assets/pdfs/A3646.pdf) and [**Wisconsin Herbicide Mode of Action Chart**] (http://ipcm.wisc.edu/download/pubsPM/Herbicide-Mode-of-Action.pdf). 
+For assistance with herbicide selection, see: [**"Pest Management in Wisconsin Field Crops (UWEX Bulletin A3646)"**] (http://learningstore.uwex.edu/Assets/pdfs/A3646.pdf) and [**"Wisconsin Herbicide Mode of Action Chart"**] (http://ipcm.wisc.edu/download/pubsPM/Herbicide-Mode-of-Action.pdf). 
 
 Always read the herbicide label for product rate, application window, and restrictions.
