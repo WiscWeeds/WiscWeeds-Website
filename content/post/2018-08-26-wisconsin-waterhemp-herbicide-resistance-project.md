@@ -23,7 +23,7 @@ There is no cost associated to the herbicide resistance screening. The only cost
 
 Please download and print the [**SEED COLLECTION FORM**] (/img/2018 waterhemp seed collection/2018 WiscWeeds Waterhemp Seed Project.pdf) (PDF file) for information on how to collect the seeds and fill out the information necessary for the project. Please submit the form with the seed sample. Samples will only be included in the herbicide resistance screening if the information requested herein is provided by the farmer/agronomist. 
 
-For questions, contact Dr. Rodrigo Werle via e-mail: **rwerle@wisc.edu** or phone: **608-262-7310**.  
+For questions, contact Dr. Rodrigo Werle via e-mail: **rwerle@wisc.edu** or phone: **608-262-7130**.  
 
 We thank the **Wisconsin Soybean Marketing Board** for providing partial funding to support this project and also those submitting samples. 
 
