@@ -24,6 +24,7 @@ Joseph Zimbric (UW-Madison Agronomy Graduate Student), [David Stoltenberg] (http
 +	The first confirmed case of glyphosate (an EPSP synthase inhibitor) resistance in Wisconsin was a non-rapid response phenotype of giant ragweed in 2011 (Figure 2). Glyphosate resistance has subsequently been confirmed in horseweed, waterhemp, Palmer amaranth, and most recently, common ragweed in 2018. 
 
 <center>!["Figure 1"] (/img/2018 resistance overview/Figure 1.png)</center>
+<center>!["Table 1"] (/img/2018 resistance overview/Table 1.png)</center>
 <center>!["Figure 2"] (/img/2018 resistance overview/Figure 2.png)</center>
 
 ## **Waterhemp in Wisconsin** ##
