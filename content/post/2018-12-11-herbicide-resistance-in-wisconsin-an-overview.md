@@ -6,7 +6,7 @@ slug: herbicide-resistance-in-wisconsin-an-overview
 categories: []
 tags: []
   
-summary: 'Looking for some research-based information to assist with PRE-emergence soybean herbicide selection for waterhemp control? Check the results of the "2018 UW Waterhemp Challenge: Comparison of Soil Residual Soybean Herbicides Study"'
+summary: '20 unique cases (weed species by herbicide site of action) of herbicide resistance have been confirmed in Wisconsin, including 13 weed species with evolved resistance to one or more herbicide sites of action. Herein we share the current state of documented herbicide resistance cases in Wisconsin crop production.'
 
 header:
   caption: ''
