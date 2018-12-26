@@ -16,7 +16,7 @@ by [Rodrigo Werle] (https://agronomy.wisc.edu/rodrigo-werle/) (UW-Madison Extens
 
 The purpose of this report is to share the results of twenty-three corn and soybean herbicide evaluation research trials conducted by the WiscWeeds Program during the 2018 growing season. Information in this report does not constitute a recommendation or endorsement of any particular product or practice. Information in this report also does not replace any information presented on pesticide labels. 
 
-Kuddos to Ryan DeWerff, Weed Science Research Specialist & WiscWeeds Herbicide Evaluation Program Coordinator, for leading the efforts pertaining to this research report. Thanks for the WiscWeeds lab (Maxwel Oliveira, Sarah Striegel, Nikola Arsenijevic, Victor Ribeiro and Rachel Renz) and also Dan Smith and Richard Proost (UW NPM Program) for the assistance with establishing the field trials and data collection. 
+Kudos to Ryan DeWerff, Weed Science Research Specialist & WiscWeeds Herbicide Evaluation Program Coordinator, for leading the efforts pertaining to this research report. Thanks for the WiscWeeds lab (Maxwel Oliveira, Sarah Striegel, Nikola Arsenijevic, Victor Ribeiro and Rachel Renz) and also Dan Smith and Richard Proost (UW NPM Program) for the assistance with establishing the field trials and data collection. 
 
 We sincerely thank the companies and organizations who have generously supported our research program through financial and/or material donations. We would also like to give a special thanks to the many UW faculty, staff, and Arlington and Lancaster Ag Research Stations and Rock County Farm personnel who provided valuable technical assistance with many aspects of the research projects presented herein.
 
