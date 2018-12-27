@@ -36,19 +36,35 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+*25 Manuscripts & 1 Book Chapter:*
+
+## **2019**  
+
+**26.** Lo, T.H., D.R. Rudnick, C.A. Burr, M.C. Stockton, and **R. Werle**. 2019. [Approaches to evaluating grower irrigation and fertilizer nitrogen amount and timing] (https://doi.org/10.1016/j.agwat.2018.11.010). Agricultural Water Management. 213:693-706. *Accepted Directly by the Editor Due to High Quality and Relevance to Readers.*
+
 ## **2018**  
 
-**20.** Stepanovic, S.V., C. Burr, J.A. Peterson, D. Santra, D. Rudnick, T. Adesemoye, C.F. Creech, and **R. Werle**. 2018. Field peas response to seeding rate, depth and inoculant in west-central Nebraska. Agronomy Journal. 2018. In Press.   
+**25. Werle, R.**, M.C. Oliveira, A.J. Jhala, C.A. Proctor, J. Rees, and R. Klein. 2018. [Survey of Nebraska farmers’ adoption of dicamba-resistant soybean technology and dicamba off-target movement] (https://doi.org/10.1017/wet.2018.62). Weed Technology. 32:754-761.  
 
-**19. Werle, R.**, and J. Miller. 2018. [Survey of Nebraska soybean producers: current and future status of weed management] (https://www.joe.org/joe/2018april/rb5.php). Journal of Extension. 56(2).   
+**24.** Butts, T.R., B.C. Vieira, D.O. Latorre, **R. Werle**, and G. Kruger. 2018. [Competitiveness of herbicide-resistant waterhemp (Amaranthus tuberculatus) with soybeans] (http://dx.doi.org/10.1017/wsc.2018.45). Weed Science. 66:729-737.  
 
-**18. Werle, R.**, C. Burr, and H. Blanco-Canqui. 2018. [Cereal rye cover crop suppresses winter annual weeds] (http://www.nrcresearchpress.com/doi/abs/10.1139/CJPS-2017-0267#.WuC6AZdOlaR). Canadian Journal of Plant Science. 98:498-500.  
+**23.** Oliveira, M.C., G.A.M. Pereira, E.A. Ferreira, J.B. Santos, S.Z. Knezevic, and **R. Werle**. 2018. [Additive design: the concept and data analysis] (https://onlinelibrary.wiley.com/doi/abs/10.1111/wre.12317). Weed Research. 58:335-347.  
 
-**17.** Vieira, B.C., S.L. Samuelson, G.S. Alves, T.A. Gaines, **R. Werle**, and G.R. Kruger. 2018. [Distribution of glyphosate-resistant Amaranthus spp. in Nebraska] (https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4781). Pest Management Science. Wiley Online Library. DOI 10.1002/ps.4781  
+**22.** Vennapusa, A.R., F. Faleco, B. Vieira, S. Samuelson, G.R. Kruger, **R. Werle**, and M. Jugulam. 2018. [Prevalence and mechanism of atrazine resistance in common waterhemp (Amaranthus tuberculatus) from Nebraska] (https://doi.org/10.1017/wsc.2018.38). Weed Science. 66:595-601. 
 
-**16.** Rudnick, D.R., T. Lo, J. Singh, **R. Werle**, F. Munoz-Arriola, T. Shaver, C.A. Burr, T.J. Dorr. 2018. [Reply to comments on “Performance assessment of factory and field calibrations for electromagnetic sensors in a loam soil”] (https://www.sciencedirect.com/science/article/pii/S0378377418301318). Agricultural Water Management. 203:272-276.  
+**21.** Stepanovic, S.V., C. Burr, J.A. Peterson, D. Santra, D. Rudnick, T. Adesemoye, C.F. Creech, and **R. Werle**. 2018. [Field peas response to seeding rate, depth and inoculant in west-central Nebraska] (https://dl.sciencesocieties.org/publications/aj/articles/110/4/1412). Agronomy Journal. 110:1412-1419.   
 
-**15.** Singh, J., T. Lo, D.R. Rudnick, T.J. Dorr, C.A. Burr, **R. Werle**, T.M. Shaver, F. Munoz-Arriola. 2018. [Performance assessment of factory and field calibrations for electromagnetic sensors in a loam soil] (https://www.sciencedirect.com/science/article/pii/S0378377417303463). Agricultural Water Management. 196:87-98.  
+**20. Werle, R.**, and J. Miller. 2018. [Survey of Nebraska soybean producers: current and future status of weed management] (https://www.joe.org/joe/2018april/rb5.php). Journal of Extension. 56(2).   
+
+**19. Werle, R.**, C. Burr, and H. Blanco-Canqui. 2018. [Cereal rye cover crop suppresses winter annual weeds] (http://www.nrcresearchpress.com/doi/abs/10.1139/CJPS-2017-0267#.WuC6AZdOlaR). Canadian Journal of Plant Science. 98:498-500.  
+
+**18.** Vieira, B.C., S.L. Samuelson, G.S. Alves, T.A. Gaines, **R. Werle**, and G.R. Kruger. 2018. [Distribution of glyphosate-resistant Amaranthus spp. in Nebraska] (https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4781). Pest Management Science. Wiley Online Library. DOI 10.1002/ps.4781  
+
+**17.** Rudnick, D.R., T. Lo, J. Singh, **R. Werle**, F. Munoz-Arriola, T. Shaver, C.A. Burr, T.J. Dorr. 2018. [Reply to comments on “Performance assessment of factory and field calibrations for electromagnetic sensors in a loam soil”] (https://www.sciencedirect.com/science/article/pii/S0378377418301318). Agricultural Water Management. 203:272-276.  
+
+**16.** Singh, J., T. Lo, D.R. Rudnick, T.J. Dorr, C.A. Burr, **R. Werle**, T.M. Shaver, F. Munoz-Arriola. 2018. [Performance assessment of factory and field calibrations for electromagnetic sensors in a loam soil] (https://www.sciencedirect.com/science/article/pii/S0378377417303463). Agricultural Water Management. 196:87-98.  
+
+**15.** Elmore, R.W., R. Werle, C. Wortmann, P. Tukamuhabwa, and N. Mueller. 2018. [Sustainable soybean production research and practice: contrasting case studies from three soybean production areas] (http://www.bdspublishing.com/_webedit/uploaded-files/All%20Files/Leaflets/Soybeans%20A4%202pp.pdf). Nguyen, H. (ed.), Achieving sustainable cultivation of soybeans Volume 1: Breeding and cultivation techniques, [Burleigh Dodds Science Publishing] (http://www.bdspublishing.com/), Cambridge, UK (ISBN: 978 1 78676 112 5) 
 
 ## **2017**  
 

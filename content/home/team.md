@@ -21,14 +21,20 @@ weight = 80
 [**Maxwel Coura Oliveira**] (https://maxweeds.rbind.io/) (Postdoctoral Research Associate)     
 <center>![Maxwel Oliveira] (/img/team/Maxwel Oliveira.jpg)</center>    
 
-**Sarah Striiegel** (MS Graduate Student)      
+**Sarah Striegel** (MS Graduate Student)      
 <center>![Sarah Striegel] (/img/team/Sarah Striegel.jpg)</center>    
 
 **Nikola Arsenijevic** (MS Graduate Student)      
 <center>![Nikola Arsenijevic] (/img/team/Nikola Arsenijevic.png)</center>   
 
+**Felipe Faleco** (MS Graduate Student)    
+<center>![Felipe Faleco] (/img/team/Felipe Faleco.jpg)</center>    
+
 **Victor Ribeiro** (Visiting MS Graduate Student)    
 <center>![Victor Ribeiro] (/img/team/Victor Ribeiro.jpg)</center>    
+  
+**Alex Rosa** (PhD Graduate Student - University of Nebraska)    
+<center>![Victor Ribeiro] (/img/team/Alex Rosa.jpg)</center>    
   
 ## **Former Lab Members**  
 No one has left (thankfully) or graduated from our program yet! 

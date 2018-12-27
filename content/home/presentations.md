@@ -21,6 +21,8 @@ list_format = 0
 +++
 ## **2018**  
 
+[**2018 Large-Scale Dicamba Drift Study**] (https://www.youtube.com/watch?v=_k6jMoGwRp0) (YouTube Video)
+
 [**2018 Tips on Waterhemp Management in Wisconsin Soybeans**] (https://www.youtube.com/watch?v=agxSPiCEKrg) (YouTube Video)
 
 [**2018 Update on Herbicide Resistant Weeds in Wisconsin**] (https://www.youtube.com/watch?v=HR1KFvHgYr0) (YouTube Video)
