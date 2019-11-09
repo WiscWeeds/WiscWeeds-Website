@@ -11,7 +11,7 @@ title = "Links"
 subtitle = "Additional Resources"
 
 # Order that this section will appear in.
-weight = 70
+weight = 60
 
 +++
 ## **University of Wisconsin Extension Publications**  

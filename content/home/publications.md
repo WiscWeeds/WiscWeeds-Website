@@ -9,7 +9,7 @@ title = "Publications"
 subtitle = "Peer-Reviewed"
 
 # Order that this section will appear in.
-weight = 60 
+weight = 50 
 
 # Number of publications to list.
 count = 10
@@ -36,9 +36,14 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-*25 Manuscripts & 1 Book Chapter:*
+*27 Manuscripts & 1 Book Chapter:*
 
 ## **2019**  
+
+**28.** Vieira, B.C., J.D. Luck, K.L. Amundsen, T.A. Gaines, **R. Werle**, and G.R. Kruger. 2019. [Response of Amaranthus spp. following exposure of sublethal herbicide rates via spray particle drift] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220014). PLoS ONE. 14(7).  
+
+**27.** Oliveira, M., L. Butts, and **R. Werle**. 2019. [Assessment of cover crop management strategies in Nebraska, US. 2019. Agriculture] (https://www.mdpi.com/2077-0472/9/6/124). 9(6):124. 
+
 
 **26.** Lo, T.H., D.R. Rudnick, C.A. Burr, M.C. Stockton, and **R. Werle**. 2019. [Approaches to evaluating grower irrigation and fertilizer nitrogen amount and timing] (https://doi.org/10.1016/j.agwat.2018.11.010). Agricultural Water Management. 213:693-706. *Accepted Directly by the Editor Due to High Quality and Relevance to Readers.*
 

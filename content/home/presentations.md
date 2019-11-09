@@ -8,7 +8,7 @@ title = "Presentations"
 subtitle = "Videos & Slides"
 
 # Order that this section will appear in.
-weight = 50 
+weight = 40 
 
 # Number of talks to list.
 count = 10
