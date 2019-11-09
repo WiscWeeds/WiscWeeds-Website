@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Wisconsin Weed Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 WiscWeeds</copyright>
+    <copyright>&amp;copy; 2019 WiscWeeds</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -19,17 +19,19 @@
       
       <guid>/home/hero/</guid>
       <description> Wisconsin Cropping Systems Weed Science Program
-Weed Science Knowledge to Academics and Practitioners UW-Madison | UW-Extension </description>
+Weed Science Knowledge to Academics and Practitioners University of Wisconsin-Madison </description>
     </item>
     
     <item>
-      <title></title>
-      <link>/home/about/</link>
+      <title>About Us</title>
+      <link>/home/aboutus/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>WiscWeeds Program &amp;amp; Werle Bio  
-Rodrigo Werle is an Assistant Professor and Extension Cropping Systems Weed Scientist in the Agronomy Department at UW-Madison. His research and extension program (WiscWeeds) focuses on agroecologically-based approaches to address sustainable weed management in (corn, soybeans and small grains) in Wisconsin and beyond. The program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security.</description>
+      <guid>/home/aboutus/</guid>
+      <description>Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Madison focuses on agroecologically-based approaches to address sustainable weed management in corn, soybeans and small grains in Wisconsin and beyond. Our program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security.
+
+
+2019 WiscWeeds Team</description>
     </item>
     
     <item>
@@ -39,15 +41,6 @@ Rodrigo Werle is an Assistant Professor and Extension Cropping Systems Weed Scie
       
       <guid>/home/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description>Coming soon!</description>
     </item>
     
     <item>
@@ -80,9 +73,10 @@ Rodrigo Werle is an Assistant Professor and Extension Cropping Systems Weed Scie
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/publications/</guid>
-      <description>25 Manuscripts &amp;amp; 1 Book Chapter:
-2019 26. Lo, T.H., D.R. Rudnick, C.A. Burr, M.C. Stockton, and R. Werle. 2019. Approaches to evaluating grower irrigation and fertilizer nitrogen amount and timing. Agricultural Water Management. 213:693-706. Accepted Directly by the Editor Due to High Quality and Relevance to Readers.
-2018 25. Werle, R., M.C. Oliveira, A.J. Jhala, C.A. Proctor, J. Rees, and R. Klein. 2018. Survey of Nebraska farmers’ adoption of dicamba-resistant soybean technology and dicamba off-target movement.</description>
+      <description>27 Manuscripts &amp;amp; 1 Book Chapter:
+2019 28. Vieira, B.C., J.D. Luck, K.L. Amundsen, T.A. Gaines, R. Werle, and G.R. Kruger. 2019. Response of Amaranthus spp. following exposure of sublethal herbicide rates via spray particle drift. PLoS ONE. 14(7).
+27. Oliveira, M., L. Butts, and R. Werle. 2019. Assessment of cover crop management strategies in Nebraska, US. 2019. Agriculture. 9(6):124.
+26. Lo, T.H., D.R. Rudnick, C.A. Burr, M.C. Stockton, and R.</description>
     </item>
     
     <item>
@@ -108,27 +102,33 @@ Wisconsin Weed Science</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/team/</guid>
-      <description>Ryan DeWerff (Research Specialist)
+      <description>Rodrigo Werle (PI: Assistant Professor &amp;amp; Extension Weed Scientist)
 
-Nick Arneson (Outreach Specialist)
+Ryan DeWerff (Weed Science Research Specialist)
 
-Maxwel Coura Oliveira (Postdoctoral Research Associate)
+Nick Arneson (Weed Science Outreach Specialist)
 
-Sarah Striegel (MS Graduate Student)
+Maxwel Coura Oliveira (Weed Science Postdoctoral Research Associate)
 
-Nikola Arsenijevic (MS Graduate Student)
+Dan Smith (UW-NPM Southwest Wisconsin Regional Agronomy Specialist)
 
-Victor Ribeiro (Visiting MS Graduate Student)
+Sarah Striegel (MS Weed Science Graduate Student)
 
-Felipe Faleco (MS Graduate Student)
+Nikola Arsenijevic (MS Weed Science Graduate Student)
 
-Kolby Grint (MS Graduate Student)
+Victor Ribeiro (Visiting MS Weed Science Graduate Student)
 
-Haleigh Ortmeier-Clarke (MS Graduate Student)
-
-Alex Rosa (PhD Graduate Student - University of Nebraska)
-
-Former Lab Members No one has left (thankfully) or graduated from our program yet!</description>
+Felipe Faleco (MS Weed Science Graduate Student)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Rodrigo Werle is an Assistant Professor and Extension Cropping Systems Weed Scientist in the Agronomy Department at UW-Madison. His research and extension program (WiscWeeds) focuses on agroecologically-based approaches to address sustainable weed management in corn, soybeans and small grains in Wisconsin and beyond. The program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security.
+Rodrigo was born in a small farming community of Dutch immigrants in the state of São Paulo, in southeastern Brazil.</description>
     </item>
     
     <item>
