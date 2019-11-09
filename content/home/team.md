@@ -18,8 +18,11 @@ weight = 80
 **Ryan DeWerff** (Research Specialist)   
 <center>![Ryan DeWerff] (/img/team/Ryan DeWerff.jpg)</center>  
 
+**Nick Arneson** (Outreach Specialist)   
+<center>![Ryan DeWerff] (/img/team/Nick Arneson.jpg)</center>  
+
 [**Maxwel Coura Oliveira**] (https://maxweeds.rbind.io/) (Postdoctoral Research Associate)     
-<center>![Maxwel Oliveira] (/img/team/Maxwel Oliveira.jpg)</center>    
+<center>![Maxwel Oliveira] (/img/team/Maxwel Oliveira.jpg)</center>     
 
 **Sarah Striegel** (MS Graduate Student)      
 <center>![Sarah Striegel] (/img/team/Sarah Striegel.jpg)</center>    
@@ -27,12 +30,18 @@ weight = 80
 **Nikola Arsenijevic** (MS Graduate Student)      
 <center>![Nikola Arsenijevic] (/img/team/Nikola Arsenijevic.png)</center>   
 
+**Victor Ribeiro** (Visiting MS Graduate Student)    
+<center>![Victor Ribeiro] (/img/team/Victor Ribeiro.jpg)</center>
+
 **Felipe Faleco** (MS Graduate Student)    
 <center>![Felipe Faleco] (/img/team/Felipe Faleco.jpg)</center>    
 
-**Victor Ribeiro** (Visiting MS Graduate Student)    
-<center>![Victor Ribeiro] (/img/team/Victor Ribeiro.jpg)</center>    
-  
+**Kolby Grint** (MS Graduate Student)    
+<center>![Felipe Faleco] (/img/team/Kolby Grint.jpg)</center>    
+
+**Haleigh Ortmeier-Clarke** (MS Graduate Student)    
+<center>![Felipe Faleco] (/img/team/Haleigh Ortmeier-Clarke.jpg)</center>    
+
 **Alex Rosa** (PhD Graduate Student - University of Nebraska)    
 <center>![Victor Ribeiro] (/img/team/Alex Rosa.jpg)</center>    
   
