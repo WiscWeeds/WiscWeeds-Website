@@ -12,7 +12,7 @@ header:
   caption: ''
   image: '2019 WiscWeeds Coalition/Combine header.jpg'
 ---
-by [**Rodrigo Werle**] (https://agronomy.wisc.edu/rodrigo-werle/) (UW-Madison Extension Cropping Systems Weed Scientist), **Nick Arneson** (UW-Madison Weed Science Outreach Specialist0,) and [**Dan Smith**] (http://ipcm.wisc.edu/contacts/) (UW NPM Southwest Wisconsin Regional Specialist)
+by [**Rodrigo Werle**] (https://agronomy.wisc.edu/rodrigo-werle/) (UW-Madison Extension Cropping Systems Weed Scientist), **Nick Arneson** (UW-Madison Weed Science Outreach Specialist) and [**Dan Smith**] (http://ipcm.wisc.edu/contacts/) (UW NPM Southwest Wisconsin Regional Specialist)
 
 Though native to Wisconsin, waterhemp has spread like wildfire and become a major problem in agricultural fields across the state in the past few years. In the fall of 2018, stakeholders submitted seed samples from 88 populations from across the state. UW-Madison Agronomy Grad Student Felipe Faleco has screened them for resistance to glyphosate and imazethapyr (Pursuit) and found that more than 90% of the waterhemp populations screened are resistant to both herbicides applied at their respective label rates (Roundup PowerMax at 22 fl oz/acre and Pursuit at 4 fl oz/acre).
 
