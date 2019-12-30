@@ -15,7 +15,7 @@ header:
 by [Rodrigo Werle] (https://agronomy.wisc.edu/rodrigo-werle/) (UW-Madison Extension Cropping Systems Weed Scientist)
 
 According to our 2018 weed management [**SURVEY**] (http://www.wiscweeds.info/post/2018-wisconsin-cropping-systems-weed-science-survey/), waterhemp has become the most concerning weed species in field crop production in Wisconsin. Thus, we invite farmers and crop advisors to attend one of our Wisconsin Regional Waterhemp Workshops to be held in four locations across the state in March of 2019. 
-
+ 
 <center> **These workshops are FREE with 3 CEUs (PM) available.**  
 [**Download the Promotional Flyer HERE (PDF File)**](/img/2019 Waterhemp Workshops/2019_WaterhempWorkshopFlyer_final.pdf) </center>
 
