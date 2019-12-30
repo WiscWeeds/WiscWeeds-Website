@@ -2,7 +2,7 @@
 title: Herbicide Site of Action Key for Crop Injury Symptoms
 author: Rodrigo Werle
 date: '2018-10-10'
-slug: herbicide-site-of-action-key-for-crop-injury-symptoms
+slug: herbicide-site-of-action-key-for-crop-injury-symptoms 
 categories: []
 tags: []
 
