@@ -260,8 +260,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Presentations"
-  url = "#presentations"
+  name = "Coalition"
+  url = "#coalition"
   weight = 4
 
 [[menu.main]]
