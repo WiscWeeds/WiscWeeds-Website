@@ -35,8 +35,6 @@ Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Ma
 
 <a class="twitter-timeline" href="https://twitter.com/WiscWeeds?ref_src=twsrc%5Etfw" data-height="720">Tweets by WiscWeeds</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-
-
 </div>  
 </div>  
 

@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-*27 Manuscripts & 1 Book Chapter:*
+*27 Manuscripts & 1 Book Chapter*
 
 ## **2019**  
 

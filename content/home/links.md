@@ -16,12 +16,12 @@ weight = 60
 +++
 ## **University of Wisconsin Extension Publications**  
 
-[**Pest Management in Wisconsin Field Crops**] (https://fyi.uwex.edu/pat/files/2018/11/2019_A3646.pdf) 
+[**Pest Management in Wisconsin Field Crops**] (https://cdn.shopify.com/s/files/1/0145/8808/4272/files/A3646-2020.pdf) 
 UWEX Bulletin A3646 (PDF)   
 [**Wisconsin Herbicide Mode of Action Chart & Combination Products**] (http://ipcm.wisc.edu/download/pubsPM/Herbicide-Mode-of-Action.pdf) (PDF)   
 [**Herbicide Site of Action Key for Crop Injury Symptoms**] (http://www.wiscweeds.info/img/2018%20Herbicide%20SOA%20injury%20chart/2018_HerbicideInjury_EN.pdf ) (PDF)  
-[**Soybean Injury from Dicamba**](https://learningstore.uwex.edu/Assets/pdfs/A4161.pdf) UWEX Bulletin A4161 (PDF) 
-
+[**Soybean Injury from Dicamba**](https://learningstore.uwex.edu/Assets/pdfs/A4161.pdf) UWEX Bulletin A4161 (PDF)   
+[**Herbicide rotational restrictions for cover and forage cropping systems**] (https://ipcm.wisc.edu/download/pubsPM/2019_RotationalRestrictions_final.pdf) (PDF)  
  
 ## **University of Wisconsin Field Crops Programs**
 
