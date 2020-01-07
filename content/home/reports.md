@@ -17,6 +17,8 @@ weight = 30
 
 ## **2019**
 
+**[2019 WiscWeeds Comparison of Soil Residual Herbicides in Corn (PDF)](/img/2019 corn residual/WiscWeeds Herbicide Comparison for Residual Waterhemp Control in Corn.pdf)** 
+
 **[2019 Wisconsin large-scale 2,4-D drift trial (Vimeo Video)] (https://vimeo.com/357101555)** 
 
 **[Cover crops after corn silage: spring termination options (YouTube Video)] (https://www.youtube.com/watch?v=FDIFFuHaSCg&list=PLMF9p1QYShgxlSdUzfnPJFd1l8J90tCpr&index=9&t=0s)** 
