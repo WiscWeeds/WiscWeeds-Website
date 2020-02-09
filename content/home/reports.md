@@ -17,6 +17,8 @@ weight = 30
 
 ## **2019**
 
+**[2019 Wisconsin Weed Science Research Report (PDF)] (/img/2019 Research Report/2019 Wisconsin Weed science Research Report.pdf)**
+
 **[2019 WiscWeeds Comparison of Soil Residual Herbicides in Corn (PDF)](/img/2019 corn residual/WiscWeeds Herbicide Comparison for Residual Waterhemp Control in Corn.pdf)** 
 
 **[2019 Wisconsin large-scale 2,4-D drift trial (Vimeo Video)] (https://vimeo.com/357101555)** 
@@ -36,7 +38,7 @@ weight = 30
 
 ## **2018**  
 
-**[2018 Wisconsin Weed Science Research Report (PDF)] (/img/2018 Research Report/2018 WiscWeeds Research Report_Web.pdf)** 
+**[2018 Wisconsin Weed Science Research Report (PDF)] (/img/2018 Research Report/2018 WiscWeeds Research Report_Web.pdf)**   
   
 **[2018 UW Waterhemp Challenge: Comparison of Soil Residual Herbicides (PDF)](/img/2018 waterhemp challenge/Waterhemp Management PRE Comparison_Lancaster WI 2018.pdf)** 
 
