@@ -17,9 +17,33 @@ weight = 30
 
 ## **2019**
 
-**[2019 Wisconsin Weed Science Research Report (PDF)] (/img/2019 Research Report/2019 Wisconsin Weed science Research Report.pdf)**
+**[Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean (PDF)](/img/2018 2019 waterhemp challenge/PreEmergence_waterhempFINAL.pdf)** 
 
 **[2019 WiscWeeds Comparison of Soil Residual Herbicides in Corn (PDF)](/img/2019 corn residual/WiscWeeds Herbicide Comparison for Residual Waterhemp Control in Corn.pdf)** 
+
+**[2019 Wisconsin Weed Science Research Report (PDF)] (/img/2019 Research Report/2019 Wisconsin Weed science Research Report.pdf)**
+  
+*2019 Corn Weed Control Trials (field images):* 
+
++ **[Bayer Integrated Corn Herbicide Programs (PDF)] (/img/2019 Research Report/Bayer Integrated Corn Herbicide Programs_WiscWeeds 2019.pdf)** 
+
++	**[Corn Herbicide Evaluation: 1- and 2-pass Programs with Atrazine (PDF)] (/img/2019 Research Report/Corn Herbicide Evaluation with Atrazine_WiscWeeds 2019.pdf)** 
+
++ **[Systems Approach to Weed Management in Corn (PDF)]  (/img/2019 Research Report/Corn Herbicide Systems Approach_WiscWeeds 2019.pdf)**
+
+*2019 Soybean Weed Control Trials (field images):* 
+
++ **[Tavium Plus VaporGrip Efficacy in Xtend (PDF)] (/img/2019 Research Report/Tavium Plus VaporGrip Efficacy in Xtend Soybean_WiscWeeds 2019.pdf)** 
+
++ **[Authority Brand Programs Efficacy in Soybean (PDF)] (/img/2019 Research Report/Authority Brand Programs Efficacy in Soybean_WiscWeeds 2019.pdf)** 
+
++ **[Evaluation of Soybean Soil Residual Herbicides - Brooklyn (PDF)] (/img/2019 Research Report/Evaluation of Soybean Soil Residual Herbicides-Brooklyn_WiscWeeds 2019.pdf)** 
+
++ **[Evaluation of Soybean Soil Residual Herbicides - Found du Lac (PDF)] (/img/2019 Research Report/Evaluation of Soybean Soil Residual Herbicides-Fon du Lac__WiscWeeds 2019.pdf)** 
+
++ **[Liberty and Enlist One/Enlist Duo Efficacy in Enlist Soybean (PDF)] (/img/2019 Research Report/Liberty and Enlist One-Enlist Duo Efficacy in Enlist Soybean_WiscWeeds 2019.pdf)** 
+
++ **[Valent Herbicides in a Liberty Link System (PDF)] (/img/2019 Research Report/Valent Actives in a Liberty Link System_WiscWeeds 2019.pdf)**
 
 **[2019 Wisconsin large-scale 2,4-D drift trial (Vimeo Video)] (https://vimeo.com/357101555)** 
 
