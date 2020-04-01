@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wisconsin Weed Science on Wisconsin Weed Science</title>
-    <link>/</link>
-    <description>Recent content in Wisconsin Weed Science on Wisconsin Weed Science</description>
+    <title>Posts on Wisconsin Weed Science</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Wisconsin Weed Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 WiscWeeds</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Enlist E3 Soybean System in 2020: What We Think Applicators Should Know</title>
@@ -16,200 +18,8 @@
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/enlist-e3-system-in-2020-what-we-think-applicators-should-know/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; &lt;em&gt;Information presented herein does not represent an endorsement of Enlist E3 soybean technology nor any seed trait or herbicide product. The purpose of this publication is solely to educate potential applicators and promote effective use of the Enlist E3 soybean technology from Corteva Agriscience.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Winter has come and gone and Spring is officially here. This means that farmers around Wisconsin and across the Midwest are getting prepared to hit the ground running when the time comes.&lt;/p&gt;
-
-&lt;p&gt;At this point, we understand that most seed and chemical orders have been placed and the decision on whether or not to adopt the novel soybean herbicide trait technologies (RR2YX, LLGT27, and Enlist E3) has been made. A recent &lt;a href=&#34;http://www.wiscweeds.info/post/survey-wisconsin-soybean-herbicide-tolerance-trait-selection-2019-2020/&#34; target=&#34;_blank&#34;&gt;survey&lt;/a&gt; conducted by the UW-Madison Cropping Systems Weed Science Lab provided interesting insight of how Wisconsin farmers intend to adopt these technologies.&lt;/p&gt;
-
-&lt;p&gt;Survey results included 58 participants representing approximately 330,000 soybean acres across 46 WI counties. According to participants, 14% of the represented acres in the survey will be planted with Enlist E3 soybeans in 2020 compared to 1% in 2019. Of those acres, 81% and 63% are expected to receive a 2,4-D choline and glufosinate application POST-emergence, respectively.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2020 Enlist E3/2020 HT Trait.jpg&#34; alt=&#34;Figure&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;With the anticipated increased adoption of Enlist E3 soybeans and 2,4-D choline POST-emergence (particularly targeting waterhemp control), this is an essential time to review some of the important information regarding 2,4-D choline applications in Enlist E3 soybeans.&lt;/p&gt;
-
-&lt;p&gt;First and foremost, Enlist One (2,4-D choline) and Enlist Duo (2,4-D choline and glyphosate premix) are the only 2,4-D products labeled for use in Enlist E3 soybeans. Other 2,4-D products are &lt;strong&gt;NOT&lt;/strong&gt; labeled thus should &lt;strong&gt;NOT&lt;/strong&gt; be used in Enlist E3 soybeans.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;application-window-and-rate-structure&#34;&gt;&lt;strong&gt;Application Window and Rate Structure:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enlist One application rate: 1.5 – 2 pts/acre*&lt;/li&gt;
-&lt;li&gt;Enlist Duo application rate: 3.5 – 4.75 pts/acre*&lt;/li&gt;
-&lt;li&gt;Apply Enlist herbicides when weeds are small (&amp;lt; 4 inches)&lt;/li&gt;
-&lt;li&gt;Apply Enlist herbicides no later than R2 (full flowering stage) in Enlist E3 soybeans&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Two POST-emergence applications maximum within a growing season with a minimum of 12 days between applications (keep in mind that overreliance will lead to additional weed resistance)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;*&lt;em&gt;Maximum label rates of Enlist herbicides should be used when managing troublesome weeds such as waterhemp.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;sensitive-area-buffers&#34;&gt;&lt;strong&gt;Sensitive Area Buffers:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;30 ft buffer downwind between application area and sensitive areas&lt;/li&gt;
-&lt;li&gt;Examples of sensitive areas:
-
-&lt;ul&gt;
-&lt;li&gt;wooded area&lt;/li&gt;
-&lt;li&gt;pasture&lt;/li&gt;
-&lt;li&gt;roadside ditch&lt;/li&gt;
-&lt;li&gt;lawns&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Buffers are not meant to protect downwind adjacent susceptible crops&lt;/li&gt;
-&lt;li&gt;Buffers are a requirement from EPA (US Environmental Protection Agency) to protect potential endangered species habitat areas&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;susceptible-crops&#34;&gt;&lt;strong&gt;Susceptible Crops:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Do not spray Enlist One or Enlist Duo herbicides when adjacent susceptible crops are downwind&lt;/li&gt;
-&lt;li&gt;Examples of susceptible crops:
-
-&lt;ul&gt;
-&lt;li&gt;grapes&lt;/li&gt;
-&lt;li&gt;tomatoes&lt;/li&gt;
-&lt;li&gt;cucurbits (watermelon, squash, pumpkins)&lt;/li&gt;
-&lt;li&gt;fruiting vegetables&lt;/li&gt;
-&lt;li&gt;tobacco&lt;/li&gt;
-&lt;li&gt;non-Enlist cotton&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;compatible-crops&#34;&gt;&lt;strong&gt;Compatible Crops:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Crops not listed as susceptible on the Enlist One and Enlist Duo labels which can be downwind from application&lt;/li&gt;
-&lt;li&gt;Examples of compatible crops:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;non-Enlist soybeans&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;corn&lt;/li&gt;
-&lt;li&gt;wheat&lt;/li&gt;
-&lt;li&gt;alfalfa&lt;/li&gt;
-&lt;li&gt;sorghum&lt;/li&gt;
-&lt;li&gt;rice&lt;/li&gt;
-&lt;li&gt;peanuts&lt;/li&gt;
-&lt;li&gt;sugarcane&lt;/li&gt;
-&lt;li&gt;sweet potato&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Yes, with adequate environmental conditions and proper sprayer setup, Enlist One or Enlist Duo can be sprayed when non-Enlist E3 soybeans are downwind.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;mixing-and-application-considerations&#34;&gt;&lt;strong&gt;Mixing and Application Considerations:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;10 gallons or more per acre of spray volume (15 GPA is recommended)&lt;/li&gt;
-&lt;li&gt;Use high level of gallonage when tank mixing&lt;/li&gt;
-&lt;li&gt;Use plenty of water between additions for induction tanks&lt;/li&gt;
-&lt;li&gt;Tank-mix sequence procedures (begin with half-full tank of water; begin agitation and continue throughout mixing process):
-
-&lt;ul&gt;
-&lt;li&gt;AMS / water conditioning agents&lt;/li&gt;
-&lt;li&gt;Pre-slurry water-soluble packets&lt;/li&gt;
-&lt;li&gt;Wettable powders / dry flowables&lt;/li&gt;
-&lt;li&gt;Compatibility agents&lt;/li&gt;
-&lt;li&gt;Liquid flowables&lt;/li&gt;
-&lt;li&gt;Capsule suspension (CS) or suspension emulsion (SE)&lt;/li&gt;
-&lt;li&gt;Emulsifiable concentrate (EC)
-
-&lt;ul&gt;
-&lt;li&gt;Soluble liquids (SL)&lt;/li&gt;
-&lt;li&gt;Enlist Duo&lt;/li&gt;
-&lt;li&gt;Enlist One*&lt;/li&gt;
-&lt;li&gt;Glyphosate products&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Crop Oil Concentrate (COC), NIS, other adjuvants&lt;/li&gt;
-&lt;li&gt;Top off with water carrier
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;*&lt;em&gt;When mixing with Enlist One, do not pour glufosinate products or potassium salt of glyphosate into the tank at the same time as Enlist One. Add products one at a time, allowing enough time for recirculation between additions of each separate product.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;approved-enlist-e3-tank-mixes&#34;&gt;&lt;strong&gt;Approved Enlist E3 Tank Mixes*:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enlist One: &lt;a href=&#34;https://www.enlist.com/en/approved-tank-mixes/enlist-one.html&#34; target=&#34;_blank&#34;&gt;https://www.enlist.com/en/approved-tank-mixes/enlist-one.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Enlist Duo: &lt;a href=&#34;https://www.enlist.com/en/approved-tank-mixes/enlist-duo.html&#34; target=&#34;_blank&#34;&gt;https://www.enlist.com/en/approved-tank-mixes/enlist-duo.html&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;*&lt;em&gt;Applicators should check websites frequently throughout the growing season to ensure they have the most up to date information regarding approved tank mixes.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;It is important to note that a glyphosate, 2,4-D choline and glufosinate tank mix is only permitted with the Enlist One formulation. Glufosinate products are not approved for tank mix with Enlist Duo.&lt;/p&gt;
-
-&lt;p&gt;It is also important to note that Roundup PowerMAX which is labeled for use in “Roundup Ready Crops” now has a supplemental label for use in Glyphosate-Tolerant Crops such as Enlist E3 soybeans and LLGT27 soybeans in Wisconsin. You can find the labels on the &lt;a href=&#34;http://www.cdms.net/Label-Database&#34; target=&#34;_blank&#34;&gt;CDMS label database&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;approved-enlist-e3-allowable-nozzles&#34;&gt;&lt;strong&gt;Approved Enlist E3 Allowable Nozzles:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enlist One: &lt;a href=&#34;https://www.enlist.com/en/approved-tank-mixes/enlist-one/enlist-one-allowable-nozzles.html&#34; target=&#34;_blank&#34;&gt;https://www.enlist.com/en/approved-tank-mixes/enlist-one/enlist-one-allowable-nozzles.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Enlist Duo: &lt;a href=&#34;https://www.enlist.com/en/approved-tank-mixes/enlist-duo-allowable-nozzles.html&#34; target=&#34;_blank&#34;&gt;https://www.enlist.com/en/approved-tank-mixes/enlist-duo-allowable-nozzles.html&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Adopt best management practices and follow label requirements to minimize particle drift.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;sprayer-tank-cleanout-guide&#34;&gt;&lt;strong&gt;Sprayer/Tank Cleanout Guide:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.enlist.com/content/dam/hdas/enlist/pdfs/Guide%20to%20Sprayer%20Cleanout.pdf&#34; target=&#34;_blank&#34;&gt;https://www.enlist.com/content/dam/hdas/enlist/pdfs/Guide%20to%20Sprayer%20Cleanout.pdf&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;getting-the-most-out-of-2-4-d&#34;&gt;&lt;strong&gt;Getting the Most out of 2,4-D:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Start clean and use an effective PRE-emergence herbicide program*&lt;/li&gt;
-&lt;li&gt;Spray small weeds (4 inches or less) &amp;amp; consider a layered-residual approach&lt;/li&gt;
-&lt;li&gt;Large droplet size&lt;/li&gt;
-&lt;li&gt;Understand the landscape (be aware of sensitive areas and susceptible crops)&lt;/li&gt;
-&lt;li&gt;Follow label requirements by the book!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;*&lt;em&gt;For assistance with PRE-emergence herbicide selection, check our publication: &lt;a href=&#34;http://www.wiscweeds.info/post/residual-control-of-waterhemp-with-pre-emergence-herbicides-in-soybean/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Residual Control of Waterhemp with PRE-emergence Herbicides in Soybeans&amp;rdquo;&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For further guidance on proper Enlist One and Enlist Duo applications consult the &lt;a href=&#34;https://www.enlist.com/en/application-guide.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Enlist Herbicides website&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;additional-considerations&#34;&gt;&lt;strong&gt;Additional Considerations:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Our low tunnel volatility and large-scale drift trials conducted at UW Arlington Ag Research Station and Sun Prairie, WI have indicated minimal to no injury from 2,4-D choline into non-Enlist soybeans. Check our video from the &lt;strong&gt;2019 large-scale 2,4-D field trial&lt;/strong&gt;:
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/357101555&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Glufosinate can also be sprayed POST-emergence in Enlist E3 soybeans, which gives farmers an additional chemical option for broadleaf weed control. Check our video &amp;ldquo;&lt;strong&gt;getting the most out of glufosinate&lt;/strong&gt;&amp;ldquo;:
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/335011671&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;For more information regarding our 2,4-D and glufosinate efficacy trials check our &lt;a href=&#34;http://www.wiscweeds.info/post/2019-wisconsin-weed-science-research-report/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;2019 Wisconsin Weed Science Research Report&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finally, it is important to use an integrated weed management approach with multiple strategies (e.g., mix and rotate effective herbicide sites of action, crop rotation, promote good agronomics to hasten canopy closure, incorporate cover crops, use of tillage when appropriate, etc.) to postpone evolution of weed resistance to 2,4-D and glufosinate.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Acknowledgments:&lt;/strong&gt; Many thanks to our Industry and University colleagues who provided valuable feedback towards this blog article.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Nicholas Arneson (UW-Madison Weed Science Outreach Specialist) and Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist).&lt;/p&gt;
-</description>
+      <description>Disclaimer: Information presented herein does not represent an endorsement of Enlist E3 soybean technology nor any seed trait or herbicide product. The purpose of this publication is solely to educate potential applicators and promote effective use of the Enlist E3 soybean technology from Corteva Agriscience.
+Winter has come and gone and Spring is officially here. This means that farmers around Wisconsin and across the Midwest are getting prepared to hit the ground running when the time comes.</description>
     </item>
     
     <item>
@@ -218,45 +28,8 @@
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2019-wisconsin-weed-science-research-report-with-field-images/</guid>
-      <description>
-
-&lt;p&gt;The purpose of this post is to share images from some of the corn and soybean herbicide evaluation research trials conducted by the Wisconsin Cropping Systems Weed Science Program during the 2019 growing season.&lt;/p&gt;
-
-&lt;h2 id=&#34;2019-corn-weed-control-trials-click-to-download-the-pdf-file&#34;&gt;&lt;em&gt;2019 Corn Weed Control Trials (click to download the PDF file):&lt;/em&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Bayer Integrated Corn Herbicide Programs_WiscWeeds 2019.pdf&#34;&gt;Bayer Integrated Corn Herbicide Programs&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Corn Herbicide Evaluation with Atrazine_WiscWeeds 2019.pdf&#34;&gt;Corn Herbicide Evaluation: 1- and 2-pass Programs with Atrazine&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Corn Herbicide Systems Approach_WiscWeeds 2019.pdf&#34;&gt;Systems Approach to Weed Management in Corn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2019-soybean-weed-control-trials-click-to-download-the-pdf-file&#34;&gt;&lt;em&gt;2019 Soybean Weed Control Trials (click to download the PDF file):&lt;/em&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Tavium Plus VaporGrip Efficacy in Xtend Soybean_WiscWeeds 2019.pdf&#34;&gt;Tavium Plus VaporGrip Efficacy in Xtend&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Authority Brand Programs Efficacy in Soybean_WiscWeeds 2019.pdf&#34;&gt;Authority Brand Programs Efficacy in Soybean&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Evaluation of Soybean Soil Residual Herbicides-Brooklyn_WiscWeeds 2019.pdf&#34;&gt;Evaluation of Soybean Soil Residual Herbicides - Brooklyn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Evaluation of Soybean Soil Residual Herbicides-Fon du Lac__WiscWeeds 2019.pdf&#34;&gt;Evaluation of Soybean Soil Residual Herbicides - Found du Lac&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Liberty and Enlist One-Enlist Duo Efficacy in Enlist Soybean_WiscWeeds 2019.pdf&#34;&gt;Liberty and Enlist One/Enlist Duo Efficacy in Enlist Soybean&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/Valent Actives in a Liberty Link System_WiscWeeds 2019.pdf&#34;&gt;Valent Herbicides in a Liberty Link System&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thanks to Ryan DeWerff (UW-Madison Weed Science Research Specialist) for generating the visual research reports.&lt;/p&gt;
-
-&lt;h2 id=&#34;to-download-the-2019-wisconsin-weed-science-research-report-click-here-pdf-file-img-2019-research-report-2019-wisconsin-weed-science-research-report-pdf&#34;&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/2019 Wisconsin Weed science Research Report.pdf&#34;&gt;To download the 2019 Wisconsin Weed Science Research Report, CLICK HERE (PDF FILE).&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Information herein does not constitute a recommendation or endorsement of any particular product or practice. Information in these reports also does not replace any information presented on herbicide labels.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please do not reproduce information presented within this report for public distribution without the expressed written consent from Dr. Rodrigo Werle.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/headers/2019WiscWeedsTeam.jpg&#34; alt=&#34;Figure&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2019-wiscweeds-team&#34;&gt;&lt;strong&gt;2019 WiscWeeds Team&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>The purpose of this post is to share images from some of the corn and soybean herbicide evaluation research trials conducted by the Wisconsin Cropping Systems Weed Science Program during the 2019 growing season.
+2019 Corn Weed Control Trials (click to download the PDF file):  Bayer Integrated Corn Herbicide Programs Corn Herbicide Evaluation: 1- and 2-pass Programs with Atrazine Systems Approach to Weed Management in Corn  2019 Soybean Weed Control Trials (click to download the PDF file):  Tavium Plus VaporGrip Efficacy in Xtend Authority Brand Programs Efficacy in Soybean Evaluation of Soybean Soil Residual Herbicides - Brooklyn Evaluation of Soybean Soil Residual Herbicides - Found du Lac</description>
     </item>
     
     <item>
@@ -265,85 +38,11 @@
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-wisconsin-regional-waterhemp-workshops/</guid>
-      <description>
-
-&lt;p&gt;We invite farmers and crop advisors to attend one of the &lt;strong&gt;2020 Wisconsin Regional Waterhemp Workshops&lt;/strong&gt; to be held in four locations across the state in March.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt; &lt;strong&gt;These workshops are FREE with 3 CEUs (PM) available.&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;/img/2020 Waterhemp Workshops/2020_WaterhempWorkshop.pdf&#34;&gt;&lt;strong&gt;Download the Promotional Flyer HERE (PDF File)&lt;/strong&gt;&lt;/a&gt; &lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;These workshops are designed for farmers and crop advisors and will build on the &lt;strong&gt;2019 Regional Waterhemp Workshops (Waterhemp 101)&lt;/strong&gt;. Topics include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;current state of herbicide resistance in Wisconsin and the Midwest&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;systems approach to weed management on a field by field basis&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;considerations for adoption of Enlist E3 system&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;managing herbicide resistant weeds by adding alfalfa to crop rotation&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cover crops and other considerations for weed management&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Presenters:&lt;/strong&gt; UW-Madison Extension Weed Scientists Rodrigo Werle and Mark Renz, Weed Science Outreach Specialist Nick Arneson, UW-NPM Outreach Specialist Dan Smith and members of the WiscWeeds Team.&lt;/p&gt;
-
-&lt;p&gt;Participants should RSVP with the local contact by &lt;strong&gt;March 11&lt;/strong&gt; (limit of 60 participants per location).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;march-16-bangor-wi&#34;&gt;&lt;strong&gt;March 16: Bangor, WI&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Log Cabin, N4697 State Rd 162, Bangor, WI 54614&lt;/li&gt;
-&lt;li&gt;Registration, coffee and rolls start at 9:30 am&lt;/li&gt;
-&lt;li&gt;Workshop: 10:00 am – 1:45 pm (lunch: 12:00 – 12:15)&lt;/li&gt;
-&lt;li&gt;Bill Halfman, Monroe County Agriculture Agent&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RSVP:&lt;/strong&gt; 608-269-8722 or william.halfman@wisc.edu&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;march-17-chippewa-falls-wi&#34;&gt;&lt;strong&gt;March 17: Chippewa Falls, WI&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Eagles’ Club Banquet Hall, 2588 Hwy 53, Chippewa Falls, WI 54729&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Registration, coffee and rolls start at 8:30 am&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Workshop: 9:00 am – noon (lunch to follow program)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Jerry Clark, Chippewa County Agriculture Educator&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RSVP:&lt;/strong&gt; 715-726-7950 or jerome.clark@wisc.edu&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;march-23-appleton-wi&#34;&gt;&lt;strong&gt;March 23: Appleton, WI&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;D.J. Bordini Center, Room 112-A, Fox Valley Technical College, N Systems Dr, Appleton, WI 54914&lt;/li&gt;
-&lt;li&gt;Registration, coffee and rolls start at 9:30 am&lt;/li&gt;
-&lt;li&gt;Workshop: 10:00 am – 1:45 pm (lunch: 12:00 – 12:15)&lt;/li&gt;
-&lt;li&gt;Rhonda Sumnicht, Extension Shawano County&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RSVP:&lt;/strong&gt;  715-526-6136 or rhonda.sumnicht@co.shawano.wi.us&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;march-24-arlington-wi&#34;&gt;&lt;strong&gt;March 24: Arlington, WI&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Public Events Building, Arlington Agricultural Research Station, N695 Hopkins Rd, Arlington, WI 53911&lt;/li&gt;
-&lt;li&gt;Registration, coffee and rolls start at 9:30 am&lt;/li&gt;
-&lt;li&gt;Workshop: 10:00 am – 1:45 pm (lunch: 12:00 – 12:15)&lt;/li&gt;
-&lt;li&gt;Chelsea Zegler, Dane County Crop and Soils Educator&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RSVP:&lt;/strong&gt; 608-224-3716 or zegler@wisc.edu&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Thanks to our sponsors (FMC confirmed; awaiting response from additional companies), meals and educational materials will be provided to participants for FREE! Thanks to the UW-NPM Program, UW-Extension, Wisconsin Soybean Marketing Board, Wisconsin Corn Promotion Board and the United Soybean Board for supporting our waterhemp management educational efforts.&lt;/p&gt;
-
-&lt;p&gt;For general questions related to the workshops, please contact Nick Arneson at njarneson@wisc.edu or Dr. Rodrigo Werle at 608-262-7130 or rwerle@wisc.edu.&lt;/p&gt;
-</description>
+      <description>We invite farmers and crop advisors to attend one of the 2020 Wisconsin Regional Waterhemp Workshops to be held in four locations across the state in March.
+ These workshops are FREE with 3 CEUs (PM) available.
+Download the Promotional Flyer HERE (PDF File) 
+These workshops are designed for farmers and crop advisors and will build on the 2019 Regional Waterhemp Workshops (Waterhemp 101). Topics include:
+ current state of herbicide resistance in Wisconsin and the Midwest</description>
     </item>
     
     <item>
@@ -352,54 +51,7 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/residual-control-of-waterhemp-with-pre-emergence-herbicides-in-soybean/</guid>
-      <description>
-
-&lt;p&gt;Waterhemp management in soybean was challenge for several Wisconsin farmers in 2019. The use of PRE-emergence herbicides is a foundation for effective waterhemp control; however, results from our &lt;a href=&#34;http://www.wiscweeds.info/post/2018-wisconsin-cropping-systems-weed-science-survey/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;2018 weed management survey&amp;rdquo;&lt;/a&gt; indicated that the use of a single POST herbicide application is still a common weed control strategy for several farmers in the state. Furthermore, recent research by the UW-Madison Cropping Systems Weed Science Lab revealed that waterhemp resistance to glyphosate (EPSPS; Group 9) and imazethapyr (ALS; Group 2) is widespread across corn and soybean fields in Wisconsin, limiting effective POST herbicide control options, particularly in soybean (see &lt;a href=&#34;http://www.wiscweeds.info/post/wisconsin-waterhemp-herbicide-resistance-project-2019-update/&#34; target=&#34;_blank&#34;&gt;“Wisconsin Waterhemp Herbicide Resistance Project – 2019 Update”&lt;/a&gt;  for an in depth look at those results).&lt;/p&gt;
-
-&lt;p&gt;Starting in 2018 (&lt;a href=&#34;http://www.wiscweeds.info/img/2018%20waterhemp%20challenge/Waterhemp%20Management%20PRE%20Comparison_Lancaster%20WI%202018.pdf&#34; target=&#34;_blank&#34;&gt;“2018 UW-Waterhemp Challenge: Comparison of Soil Residual Soybean Herbicides”&lt;/a&gt;), and replicated in 2019, a study was conducted to evaluate and demonstrate the effectiveness of multiple PRE-emergence soybean herbicides. This was a joint effort between the &lt;a href=&#34;http://ipcm.wisc.edu/npm/&#34; target=&#34;_blank&#34;&gt;UW-Madison Nutrient and Pest Management Program&lt;/a&gt; (NPM; Dan Smith and Richard Proost) and the UW-Madison Cropping Systems Weed Science team. The study was conducted both years at &lt;a href=&#34;https://lancaster.ars.wisc.edu/&#34; target=&#34;_blank&#34;&gt;UW Lancaster Ag Research Station&lt;/a&gt;, in Lancaster, WI (Grant Co; Southwest WI) in fields naturally infested with waterhemp. Treatments consisted of PRE-emergence soybean herbicides with one, two, or three different active ingredient(s) and/or site(s) of action (SOA). Herbicide rates tested in this study were selected based on recommendations for a typical WI Silt Loam soil. Herbicides were sprayed within 3 days after soybean planting and visual efficacy data collected at 25 and 50 days after treatment.&lt;/p&gt;
-
-&lt;p&gt;When selecting a PRE-herbicide program, it is important to balance efficacy and product cost. Always consider soil characteristics, geographic restrictions and crop rotation when determining which products and rates to use in your PRE-emergence herbicide program. The residual activity of a PRE-emergence herbicide is dependent on the rate applied; cutting rates is not a recommended strategy when attempting to manage troublesome weeds like waterhemp. &lt;strong&gt;Always read, understand, and follow the pesticide label.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;To download the &lt;a href=&#34;/img/2018 2019 waterhemp challenge/PreEmergence_waterhempFINAL.pdf&#34;&gt;&lt;strong&gt;&amp;ldquo;Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean&amp;rdquo;&lt;/strong&gt; Article (PDF file) click HERE&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for additional research updates related to control of waterhemp and other troublesome weeds in Wisconsin as well summer plot tour opportunities in 2020!&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2018 2019 waterhemp challenge/2018 25 DAT.png&#34; alt=&#34;Figure1&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2018 2019 waterhemp challenge/2018 50 DAT.png&#34; alt=&#34;Figure2&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2018 2019 waterhemp challenge/2019 25 DAT.png&#34; alt=&#34;Figure3&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2018 2019 waterhemp challenge/2019 50 DAT.png&#34; alt=&#34;Figure4&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Take-Home from the “Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean” Publication:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Due to its genetic variability, wide emergence window, vigorous growth potential, and prolific seed production, waterhemp has become a troublesome weed in soybean cropping systems.&lt;/li&gt;
-&lt;li&gt;Wisconsin research summarized herein demonstrates the effectiveness of incorporating pre-emergence herbicides into waterhemp management programs.&lt;/li&gt;
-&lt;li&gt;Effective herbicide programs should be determined on a field to field basis taking into consideration soil properties, geographic restrictions, subsequent crop(s), and soil seedbank weed species composition, pressure, and presence of herbicide resistance.&lt;/li&gt;
-&lt;li&gt;Sustainable management of herbicide-resistant waterhemp populations requires a holistic integrated approach incorporating cultural and/or mechanical practices alongside chemical herbicide programs.&lt;/li&gt;
-&lt;li&gt;Remember, don’t let them seed. No seed, no weed!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Acknowledgements:&lt;/strong&gt; We would like to thank Mimi Broeske, UW-NPM Senior Editor, for developing the publication layout. Members of the UW-Madison Cropping Systems Weed Science Lab helped with study establishment and data collection. Thanks to Doug Wiedenbeck and the UW Lancaster Ag Research Station staff for their support. Thanks to industry colleagues who helped in developing the rate structure for this study. This study was partially funded by the &lt;a href=&#34;https://wisoybean.org/&#34; target=&#34;_blank&#34;&gt;Wisconsin Soybean Marketing Board&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Nicholas Arneson (UW-Madison Weed Science Outreach Specialist), Dan Smith (UW NPM Southwest Wisconsin Regional Specialist), Ryan Dewerff (UW-Madison Weed Science Research Specialist), Maxwel Coura Oliveira (UW-Madison (UW-Madison Weed Science Postdoctoral Research Associate), and Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/headers/2019WiscWeedsTeam.jpg&#34; alt=&#34;Figure&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2019-wiscweeds-team&#34;&gt;&lt;strong&gt;2019 WiscWeeds Team&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Waterhemp management in soybean was challenge for several Wisconsin farmers in 2019. The use of PRE-emergence herbicides is a foundation for effective waterhemp control; however, results from our &amp;ldquo;2018 weed management survey&amp;rdquo; indicated that the use of a single POST herbicide application is still a common weed control strategy for several farmers in the state. Furthermore, recent research by the UW-Madison Cropping Systems Weed Science Lab revealed that waterhemp resistance to glyphosate (EPSPS; Group 9) and imazethapyr (ALS; Group 2) is widespread across corn and soybean fields in Wisconsin, limiting effective POST herbicide control options, particularly in soybean (see “Wisconsin Waterhemp Herbicide Resistance Project – 2019 Update” for an in depth look at those results).</description>
     </item>
     
     <item>
@@ -408,61 +60,8 @@
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2019-wisconsin-weed-science-research-report/</guid>
-      <description>
-
-&lt;p&gt;by Ryan DeWerff (UW-Madison Weed Science Research Specialist), Nicholas Arneson (UW-Madison Weed Science Outreach Specialist), and &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist).&lt;/p&gt;
-
-&lt;p&gt;The purpose of this report is to share the results of corn and soybean herbicide evaluation research trials conducted by the Wisconsin Cropping Systems Weed Science Program during the 2019 growing season. Information in this report does not constitute a recommendation or endorsement of any particular product or practice. Information in this report also does not replace any information presented on herbicide labels.&lt;/p&gt;
-
-&lt;h2 id=&#34;to-download-the-2019-wisconsin-weed-science-research-report-click-here-pdf-file-img-2019-research-report-2019-wisconsin-weed-science-research-report-pdf&#34;&gt;&lt;strong&gt;&lt;a href=&#34;/img/2019 Research Report/2019 Wisconsin Weed science Research Report.pdf&#34;&gt;To download the 2019 Wisconsin Weed Science Research Report, CLICK HERE (PDF FILE).&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Please do not reproduce information presented within this report for public distribution without the expressed written consent from Dr. Rodrigo Werle.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2019-research-trials&#34;&gt;&lt;strong&gt;2019 Research Trials:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;corn-weed-control-trials&#34;&gt;&lt;em&gt;Corn Weed Control Trials&lt;/em&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bayer Integrated Corn Herbicide Programs&lt;/li&gt;
-&lt;li&gt;Corn Herbicide Evaluation: 1 and 2-pass Programs with Atrazine&lt;/li&gt;
-&lt;li&gt;Corn Herbicide Evaluation: 1 and 2-pass Programs without Atrazine&lt;/li&gt;
-&lt;li&gt;Systems Approach to Weed Management in Corn&lt;/li&gt;
-&lt;li&gt;Evaluation of Corn Herbicide Soil Residual Activity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;soybean-weed-control-trials&#34;&gt;&lt;em&gt;Soybean Weed Control Trials&lt;/em&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;XtendFlex Soybean Herbicide Programs&lt;/li&gt;
-&lt;li&gt;Soybean Herbicide Evaluation&lt;/li&gt;
-&lt;li&gt;UPL Preemergence Soybean Herbicide Programs&lt;/li&gt;
-&lt;li&gt;Enlist Weed Control System in Soybean&lt;/li&gt;
-&lt;li&gt;Systems Approach to Weed Control in Xtend Soybeans&lt;/li&gt;
-&lt;li&gt;Spray Early with Confidence Program in Xtend Soybean&lt;/li&gt;
-&lt;li&gt;Tavium Plus VaporGrip Efficacy in Xtend&lt;/li&gt;
-&lt;li&gt;Authority Brand Programs Efficacy in Soybean&lt;/li&gt;
-&lt;li&gt;Evaluation of Soybean Soil Residual Herbicides&lt;/li&gt;
-&lt;li&gt;Utility of Layering Residual Herbicides in Soybean&lt;/li&gt;
-&lt;li&gt;Liberty and Enlist One/Enlist Duo Efficacy in Enlist Soybean&lt;/li&gt;
-&lt;li&gt;Valent Herbicides in a Liberty Link System&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bareground-weed-control-trials&#34;&gt;&lt;em&gt;Bareground Weed Control Trials&lt;/em&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fall vs Spring Burndown Control of Dandelion&lt;/li&gt;
-&lt;li&gt;Engenia, Enlist One, and Liberty Burndown Efficacy&lt;/li&gt;
-&lt;li&gt;Postemergence Control of Waterhemp&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/headers/2019WiscWeedsTeam.jpg&#34; alt=&#34;Figure&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2019-wiscweeds-team&#34;&gt;&lt;strong&gt;2019 WiscWeeds Team&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>by Ryan DeWerff (UW-Madison Weed Science Research Specialist), Nicholas Arneson (UW-Madison Weed Science Outreach Specialist), and Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist).
+The purpose of this report is to share the results of corn and soybean herbicide evaluation research trials conducted by the Wisconsin Cropping Systems Weed Science Program during the 2019 growing season. Information in this report does not constitute a recommendation or endorsement of any particular product or practice.</description>
     </item>
     
     <item>
@@ -471,42 +70,7 @@
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/herbicide-comparison-for-residual-waterhemp-control-in-corn/</guid>
-      <description>
-
-&lt;p&gt;Waterhemp management has become a major challenge for several corn and soybean farmers in Wisconsin and beyond. Waterhemp has an extended emergence window and is a competitive, prolific and genetically diverse weed species which has evolved resistance to commonly used corn and soybean herbicides across the Midwest (see &lt;a href=&#34;http://www.wiscweeds.info/post/wisconsin-waterhemp-herbicide-resistance-project-2019-update/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;2019 Wisconsin Waterhemp Herbicide Resistance Project Update&lt;/strong&gt;&lt;/a&gt;). The use of soil residual herbicides is a foundation for waterhemp control and given that several effective and flexible herbicide options in terms of application window (PRE through early-POST) are available for corn, this crop provides farmers with a good opportunity for effective waterhemp management.&lt;/p&gt;
-
-&lt;p&gt;In 2019 we conducted a study to evaluate and demonstrate the effectiveness of multiple soil-applied corn herbicides. The study was conducted at a grower’s field south of Brooklyn, Dane county, WI in a field with natural and significant waterhemp infestation as part of our &lt;strong&gt;WiscWeeds Waterhemp Management Challenge&lt;/strong&gt; educational efforts. Treatments consisted of corn herbicides containing one or multiple sites of action (SOA). Herbicides were sprayed when corn reached the V2 growth stage. Visual evaluation data on a 0-100% scale (0% indicating no waterhemp control and 100% indicating complete control) were collected at 25 and 50 days after treatment (DAT). Since the objective was to evaluate soil residual activity, Liberty (32 fl oz per acre) was tank-mixed to all treatments to eliminate established waterhemp plants at the time of herbicide application (corn hybrid used in this study was LibertyLink). Two treatments were intentionally applied off-label in this study given their relevance in our state and thus the importance of collecting their soil residual efficacy data: Princep 4FL and Verdict (these products are labeled PRE-emergence only in corn).&lt;/p&gt;
-
-&lt;p&gt;To download the 2019 Preliminary Report of the “&lt;strong&gt;WiscWeeds Herbicide Comparison for Residual Waterhemp Control in Corn&lt;/strong&gt;” (PDF file) click &lt;a href=&#34;/img/2019 corn residual/WiscWeeds Herbicide Comparison for Residual Waterhemp Control in Corn.pdf&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 corn residual/25 dat corn.jpg&#34; alt=&#34;&amp;quot;25 DAT&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 corn residual/50 dat corn.jpg&#34; alt=&#34;&amp;quot;50 DAT&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 corn residual/IMG_2766.jpg&#34; alt=&#34;&amp;quot;Natural Infestation&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;The herbicide rates used in the study are ones recommended by our industry colleagues and supported by us for a typical Wisconsin Silt Loam soil. In this report we also include site and study information, and the equivalent rate of single active ingredient products in the premixes evaluated (herbicides with multiple active ingredients). Our intent with this study is not to promote one product versus another, instead, demonstrate the value of using an effective soil residual programs for waterhemp control in corn.&lt;/p&gt;
-
-&lt;h2 id=&#34;take-home&#34;&gt;&lt;strong&gt;Take-Home&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;When selecting a soil-applied herbicide program, we challenge agronomists and farmers to balance efficacy (using our results and their experience), product cost, and rotation restrictions.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;We also encourage farmers to compare their use rates with the ones used in our study (recommended by industry representatives and respective product labels), assuming Silt Loam soils. The residual activity of a soil-applied herbicide is dependent on the rates applied; cutting rates is not a recommended strategy when attempting to manage troublesome weeds like waterhemp.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;PRE-emergence herbicide programs containing multiple effective sites of action are recommended to broaden weed control spectrum and to lower selection for additional herbicide resistance.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;When selecting a commercial premix, note that not all active ingredients may be considered effective. For instance, Halex GT contains 3 SOA (glyphosate, Group 9; S-metolachlor, Group 15; mesotrione, Group 27) but only two will provide effective soil residual control for waterhemp (S-metolachlor, Group 15; mesotrione, Group 27).&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While these results should be taken with a grain of salt (only one year of data), they clearly indicate the value of effective soil residual herbicides. This study will be replicated in 2020. Stay tuned for additional research findings related to our waterhemp control studies and also plot tour opportunities in 2020!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Always read, understand and follow the pesticide label.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Acknowledgments&lt;/strong&gt;: we would like to thank the &lt;strong&gt;Wisconsin Corn Promotion Board&lt;/strong&gt; for supporting this project and Industry Representatives for assisting with treatment structure and providing chemicals for trial establishment. Members of the Wisconsin Cropping Systems Weed Science Lab provided technical assistance towards the execution of this project.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Weed Scientist), Nicholas Arneson (UW-Madison Weed Science Outreach Specialist), and Ryan DeWerff (UW-Madison Weed Science Research Specialist).&lt;/p&gt;
-</description>
+      <description>Waterhemp management has become a major challenge for several corn and soybean farmers in Wisconsin and beyond. Waterhemp has an extended emergence window and is a competitive, prolific and genetically diverse weed species which has evolved resistance to commonly used corn and soybean herbicides across the Midwest (see 2019 Wisconsin Waterhemp Herbicide Resistance Project Update). The use of soil residual herbicides is a foundation for waterhemp control and given that several effective and flexible herbicide options in terms of application window (PRE through early-POST) are available for corn, this crop provides farmers with a good opportunity for effective waterhemp management.</description>
     </item>
     
     <item>
@@ -515,85 +79,8 @@
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/wisconsin-waterhemp-herbicide-resistance-project-2019-update/</guid>
-      <description>
-
-&lt;p&gt;Felipe Faleco (UW-Madison Agronomy Graduate Student), &lt;a href=&#34;https://agronomy.wisc.edu/dave-stoltenberg/&#34; target=&#34;_blank&#34;&gt;David Stoltenberg&lt;/a&gt; (UW-Madison Agronomy Professor), &lt;a href=&#34;https://agronomy.wisc.edu/mark-renz/&#34; target=&#34;_blank&#34;&gt;Mark Renz&lt;/a&gt; (UW-Madison Extension Weed Scientist) and &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Weed Scientist)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Waterhemp&lt;/strong&gt; is a competitive, prolific and genetically diverse weed species which has evolved resistance to commonly used corn and soybean herbicides across the Midwest. In Wisconsin, waterhemp populations have been confirmed resistant to three sites of action (SOA): ALS (acetolactate synthase; Group 2), EPSPS (enolpyruvyl shikimate phosphate synthase; Group 9), and/or PPO-inhibitor herbicides (protoporphyrinogin oxidase; Group 14). Glyphosate resistance has been confirmed in 28 Wisconsin counties and multiple resistance to glyphosate and PPO-inhibitors has been confirmed in 10 of these counties. For more information on the status of herbicide resistance in Wisconsin click &lt;a href=&#34;http://www.wiscweeds.info/post/herbicide-resistance-in-wisconsin-an-overview/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Identifying the distribution of herbicide resistance in waterhemp to commonly used herbicides is vital for the selection of appropriate management strategies. The &lt;strong&gt;objective&lt;/strong&gt; of this study was to determine the frequency and distribution of glyphosate (EPSPS; Group 9), imazethapyr (ALS; Group 2) and atrazine (photosystem II [PSII]; Group 5)-resistant waterhemp populations in Wisconsin corn and soybean production systems.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;results&#34;&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 waterhemp resistance update/Glyphosate.jpeg&#34; alt=&#34;&amp;quot;Glyphosate&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Out of 86 waterhemp populations screened, 95% and 70% were confirmed resistant to 1x and 3x label rate of &lt;strong&gt;glyphosate&lt;/strong&gt;, respectively.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 waterhemp resistance update/Imazethapyr.jpeg&#34; alt=&#34;&amp;quot;Imazethapyr&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Out of 82 waterhemp populations screened, 98% and 93% were confirmed resistant to 1x and 3x label rate of &lt;strong&gt;imazethapyr&lt;/strong&gt;, respectively.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 waterhemp resistance update/Atrazine.jpeg&#34; alt=&#34;&amp;quot;Atrazine&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Out of 80 waterhemp populations screened, 10% and 3% were confirmed resistant to 1x and 3x label rate of &lt;strong&gt;atrazine&lt;/strong&gt;, respectively.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;conclusions&#34;&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Glyphosate and imazethapyr-resistant waterhemp populations are widespread across corn and soybean fields in Wisconsin, requiring awareness and action from stakeholders to mitigate their detrimental impacts.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Atrazine restrictions in Wisconsin may partially explain the lower than expected resistance frequency. Atrazine resistance in waterhemp populations from other Midwestern states is more common.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Understanding the distribution of waterhemp resistance and selection of effective PRE and POST emergence herbicides can assist growers develop better management strategies and ameliorate the issues with herbicide resistance.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;future-directions&#34;&gt;&lt;strong&gt;Future Directions&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;A subset of populations will be selected and further studies will be conducted to evaluate the response of these populations to other herbicides applied POST (lactofen, mesotrione, glufosinate, 2,4-D and dicamba) or PRE (atrazine, mesotrione, metribuzin, sulfentrazone and &lt;em&gt;S&lt;/em&gt;-metolachlor).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;acknowledgments&#34;&gt;&lt;strong&gt;Acknowledgments&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;We would like to thank the &lt;strong&gt;Wisconsin Soybean Marketing Board&lt;/strong&gt; and the &lt;strong&gt;Wisconsin Corn Promotion Board&lt;/strong&gt; for supporting this project. Many thanks to those who contributed to this project by collecting waterhemp seeds (individual reports to collaborators will be submitted in January 2020). Members of the Wisconsin Cropping Systems Weed Science Lab provided technical assistance towards the execution of this project.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;research-methods&#34;&gt;&lt;strong&gt;Research Methods&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;86 waterhemp populations from 27 Wisconsin counties were collected and submitted by stakeholders in the fall of 2018 (many thanks to those who contributed to this &lt;a href=&#34;http://www.wiscweeds.info/post/wisconsin-waterhemp-herbicide-resistance-project/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;project&lt;/strong&gt;&lt;/a&gt; by collecting waterhemp seeds).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Experimental units consisted of cone-tainers (656 ml) filled with Pro-Mix HP Mycorrhizae potting mix. Plants were maintained in a greenhouse with a controlled environment, watered daily and fertilized once a week.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Treatments were applied when waterhemp plants reached 2-4 inches in height using a single-nozzle research track spray chamber with AI9502EVS nozzle tips, calibrated to deliver 15 GPA of spray solution.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Treatments consisted of &lt;strong&gt;glyphosate&lt;/strong&gt; (&lt;strong&gt;1X&lt;/strong&gt; = Roundup PowerMax at 22 fl oz/acre and &lt;strong&gt;3X&lt;/strong&gt; = Roundup PowerMax at 66 fl oz/acre), imazethapyr (&lt;strong&gt;1X&lt;/strong&gt; = Pursuit at 4 fl oz/acre and &lt;strong&gt;3X&lt;/strong&gt; = Pursuit at 12 fl oz/acre), atrazine (&lt;strong&gt;1X&lt;/strong&gt;= Aatrex 4L at 2 pts/acre and 3X = Aatrex 4L at 6 pts/acre), and the &lt;strong&gt;nontreated control&lt;/strong&gt;. AMS (2 lbs/acre) was added to the glyphosate treatments. AMS (2 lbs/acre) + COC (0.6% v/v) were added to the imazethapyr treatments. COC (0.8%) v/v was added to the atrazine treatments.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The experiment was conducted in a completely randomized design with 8 replications per herbicide treatment and two experimental runs.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;21 days after treatment (DAT) visual evaluation (VE) of plant growth was taken on a scale of 1 to 10 (1 representing a dead plant and 10 a completely healthy plant, Figure 1) and aboveground biomass harvested.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Waterhemp populations were considered resistant to each treatment if 50% or more of treated plants between experimental runs had VE ≥ 7 (healthy plants completely capable of reproducing).
-&lt;center&gt;&lt;img src=&#34;/img/2019 waterhemp resistance update/Visual Scale.png&#34; alt=&#34;Visual Evaluation&#34; /&gt;&lt;/center&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Felipe Faleco (UW-Madison Agronomy Graduate Student), David Stoltenberg (UW-Madison Agronomy Professor), Mark Renz (UW-Madison Extension Weed Scientist) and Rodrigo Werle (UW-Madison Extension Weed Scientist)
+Waterhemp is a competitive, prolific and genetically diverse weed species which has evolved resistance to commonly used corn and soybean herbicides across the Midwest. In Wisconsin, waterhemp populations have been confirmed resistant to three sites of action (SOA): ALS (acetolactate synthase; Group 2), EPSPS (enolpyruvyl shikimate phosphate synthase; Group 9), and/or PPO-inhibitor herbicides (protoporphyrinogin oxidase; Group 14).</description>
     </item>
     
     <item>
@@ -602,18 +89,10 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/survey-wisconsin-soybean-herbicide-tolerance-trait-selection-2019-2020/</guid>
-      <description>&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist) and &lt;a href=&#34;http://coolbean.info/&#34; target=&#34;_blank&#34;&gt;Shawn Conley&lt;/a&gt; (UW-Madison Extension Soybean and Small Grain Specialist)&lt;/p&gt;
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and Shawn Conley (UW-Madison Extension Soybean and Small Grain Specialist)
+Dr. Shawn Conley and team (Coolbean.info) recently released the 2019 yield data from their soybean variety trials conducted across the state of Wisconsin and concluded that no yield differences were observed across herbicide tolerance traits within nor across regions (Enlist E3, RR2 Xtend and LLGT27):
 
-&lt;p&gt;Dr. Shawn Conley and team &lt;a href=&#34;https://coolbean.info/&#34; target=&#34;_blank&#34;&gt;(Coolbean.info)&lt;/a&gt; recently released the 2019 yield data from their soybean variety trials conducted across the state of Wisconsin and concluded that no yield differences were observed across herbicide tolerance traits within nor across regions (Enlist E3, RR2 Xtend and LLGT27):&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2020 Soybean HT Survey/2020 Trait Slide Conley.jpg&#34; alt=&#34;&amp;quot;small&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Herein, we would like to ask Wisconsin soybean producers and decision influencers to help us better understand herbicide tolerance trait and POST-emergence herbicide adoption in 2019 and their plans for 2020. This information will be of great value to our educational efforts during this Extension season and research efforts during 2020 and beyond. The survey has 30 questions and should take less than 10 minutes of your time. To start the online survey, please click &lt;a href=&#34;https://uwmadison.co1.qualtrics.com/jfe/form/SV_5dOy1FC5lt3EMp7&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Survey link: &lt;a href=&#34;https://uwmadison.co1.qualtrics.com/jfe/form/SV_5dOy1FC5lt3EMp7&#34; target=&#34;_blank&#34;&gt;https://uwmadison.co1.qualtrics.com/jfe/form/SV_5dOy1FC5lt3EMp7&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Thank you for your time and Happy Holidays!&lt;/p&gt;
-</description>
+Herein, we would like to ask Wisconsin soybean producers and decision influencers to help us better understand herbicide tolerance trait and POST-emergence herbicide adoption in 2019 and their plans for 2020.</description>
     </item>
     
     <item>
@@ -622,35 +101,8 @@
       <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019-wiscweeds-research-coalition-combine-weed-seed-collection-project/</guid>
-      <description>
-
-&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Rodrigo Werle&lt;/strong&gt;&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist), &lt;strong&gt;Nick Arneson&lt;/strong&gt; (UW-Madison Weed Science Outreach Specialist) and &lt;a href=&#34;http://ipcm.wisc.edu/contacts/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Dan Smith&lt;/strong&gt;&lt;/a&gt; (UW NPM Southwest Wisconsin Regional Specialist)&lt;/p&gt;
-
-&lt;p&gt;Though native to Wisconsin, waterhemp has spread like wildfire and become a major problem in agricultural fields across the state in the past few years. In the fall of 2018, stakeholders submitted seed samples from 88 populations from across the state. UW-Madison Agronomy Grad Student Felipe Faleco has screened them for resistance to glyphosate and imazethapyr (Pursuit) and found that more than 90% of the waterhemp populations screened are resistant to both herbicides applied at their respective label rates (Roundup PowerMax at 22 fl oz/acre and Pursuit at 4 fl oz/acre).&lt;/p&gt;
-
-&lt;p&gt;Combines are very effective weed dispersal agents, moving weed seeds within and across fields. Our objectives with this project are to evaluate: i) how often combines are contaminated with weed seeds, ii) which weed species are common combine contaminants, and iii) the main places within combines weed seeds hide. To participate in the project, please download, print and fill out the collection protocol &lt;a href=&#34;/img/2019 WiscWeeds Coalition/2019 Combine Weed Seed Collection Submission Form.pdf&#34;&gt;&lt;strong&gt;(click here to download the PDF file)&lt;/strong&gt;&lt;/a&gt;, and watch the brief instruction &lt;a href=&#34;https://vimeo.com/374533967&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Vimeo video&lt;/strong&gt;&lt;/a&gt;:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/374533967&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;p&gt;Samples must be collected after harvesting a crop field and before combines are winterized. Next spring and summer (2020), samples will be mixed with soil, placed in flats and watered daily in the greenhouse. The number of weeds and species will be recorded and flats will be sprayed with glyphosate when plants are established to evaluate the incidence of glyphosate-resistant weeds. A summary of our research findings will be made available in the Fall of 2020. We thank you in advance for your interest and participation in this collaborative project.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;wiscweeds-research-coalition-about&#34;&gt;&lt;strong&gt;WiscWeeds Research Coalition - About:&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Given the widespread occurrence of herbicide-resistant weeds across Wisconsin Cropping Systems, the shortage of novel herbicide sites of action, and the socioeconomic and environmental challenges herbicide-resistant weeds bring to farming operations and communities, it’s time for our industry to come together and work towards a similar goal: to promote and hopefully achieve effective and sustainable weed control in crop production systems.&lt;/p&gt;
-
-&lt;p&gt;The objective of the WiscWeeds Research Coalition is to bring together Researchers, Educators, Policy Makers, Industry, Consultants, Service Providers, and Growers to work towards preventing the spread, reducing the selection for, and to increase the adoption of integrated management strategies to combat herbicide-resistant weed species. Through the WiscWeeds Research Coalition we expect to develop a strong relationship amongst key stakeholders allowing for effective exchange of materials, practical knowledge and research-based recommendations.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt; &lt;em&gt;“Alone we can do so little; together we can do so much”&lt;/em&gt; Helen Keller &lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Sincerely,&lt;br /&gt;
-&lt;em&gt;Rodrigo Werle, Nick Arneson and Dan Smith&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 WiscWeeds Coalition/WiscWeeds Research Coalition Logo.jpg&#34; alt=&#34;&amp;quot;Logo&amp;quot;&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist), Nick Arneson (UW-Madison Weed Science Outreach Specialist) and Dan Smith (UW NPM Southwest Wisconsin Regional Specialist)
+Though native to Wisconsin, waterhemp has spread like wildfire and become a major problem in agricultural fields across the state in the past few years. In the fall of 2018, stakeholders submitted seed samples from 88 populations from across the state. UW-Madison Agronomy Grad Student Felipe Faleco has screened them for resistance to glyphosate and imazethapyr (Pursuit) and found that more than 90% of the waterhemp populations screened are resistant to both herbicides applied at their respective label rates (Roundup PowerMax at 22 fl oz/acre and Pursuit at 4 fl oz/acre).</description>
     </item>
     
     <item>
@@ -659,20 +111,8 @@
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/wisconsin-marestail-herbicide-resistance-screening-project/</guid>
-      <description>&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist)&lt;/p&gt;
-
-&lt;p&gt;Marestail (aka horseweed) tends to be a troublesome weed species in no-till cropping systems across the Midwest and this year we received several inquiries regarding poor marestail control in parts of Wisconsin. Thus, we would like to invite Wisconsin farmers, crop consultants, educators and industry representatives that are dealing with this weed to collect seeds this fall from their row crop production fields and submit them to UW-Madison for herbicide resistance screenings (please collect marestail seed samples from fields with consistent infestation levels).&lt;/p&gt;
-
-&lt;p&gt;We intend to screen samples in the greenhouse for resistance to glyphosate (Group 9), PPO-inhibitor (e.g., Cobra, Flextar, Cadet; Group 14), ALS-inhibitor (e.g., Pursuit, Classic, FirstRate; Group 2), and Growth Regulator (e.g., dicamba, 2,4-D; Group 4) herbicides. Results will be made available to those who submit the samples after the greenhouse screenings are completed.&lt;/p&gt;
-
-&lt;p&gt;There is no cost associated to the herbicide resistance screening. The only cost will be your time to collect the seed samples and mailing them to: &lt;strong&gt;Rodrigo Werle, 1575 Linden Drive, Madison, WI 53706.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please download and print the &lt;a href=&#34;/img/2019 marestail seed collection/2019 WiscWeeds Marestail Seed Project.pdf&#34;&gt;&lt;strong&gt;SEED COLLECTION FORM&lt;/strong&gt;&lt;/a&gt; (PDF file) for information on how to collect the seeds and fill out the information necessary for the project. Please submit the form with the seed sample. Samples will only be included in the herbicide resistance screening if the information requested herein is provided.&lt;/p&gt;
-
-&lt;p&gt;For questions, contact Dr. Rodrigo Werle via e-mail: &lt;strong&gt;rwerle@wisc.edu&lt;/strong&gt; or phone: &lt;strong&gt;608-262-7130&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We thank the &lt;strong&gt;Wisconsin Soybean Marketing Board&lt;/strong&gt; and the &lt;strong&gt;United Soybean Board&lt;/strong&gt; for providing partial funding to support this project and also those submitting samples.&lt;/p&gt;
-</description>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+Marestail (aka horseweed) tends to be a troublesome weed species in no-till cropping systems across the Midwest and this year we received several inquiries regarding poor marestail control in parts of Wisconsin. Thus, we would like to invite Wisconsin farmers, crop consultants, educators and industry representatives that are dealing with this weed to collect seeds this fall from their row crop production fields and submit them to UW-Madison for herbicide resistance screenings (please collect marestail seed samples from fields with consistent infestation levels).</description>
     </item>
     
     <item>
@@ -681,46 +121,8 @@
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/puckered-soybeans-and-uncontrolled-pigweeds-the-thoughts-of-a-young-weed-scientist/</guid>
-      <description>&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist)&lt;/p&gt;
-
-&lt;p&gt;Last week I took a group of UW-Madison Graduate Students to participate in the &lt;a href=&#34;http://ncwss.org/weed-contest/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;2019 North American Weed Science Contest&lt;/strong&gt;&lt;/a&gt; in Seymour, IL (July 24-26, 2019). Driving through the Interstate (I-74/I-39), Highways and country side, the off-target herbicide movement (puckered/cupped soybeans) and waterhemp pressure across central IL were evident. Thus, I would like to use this IL scenario as my “case study” for this article.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 dicamba pigweed/IMG_3926.jpg&#34; alt=&#34;&amp;quot;1&amp;quot;&#34; /&gt;&lt;/center&gt;
-&lt;strong&gt;Figure 1. Soybean field in central Illinois injured by off-target dicamba movement. Picture taken on 07/25/2019.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;When I stopped at some of the “puckered/cupped” IL soybean fields, something else got my attention, the unsatisfactory control of waterhemp in several fields that I assume were Liberty Link treated POST-emergence with glufosinate (a couple were for sure because I got to talk with the growers). While the lack of complete waterhemp control with glufosinate is often associated to non-ideal application conditions (e.g., weed size, spray coverage, environmental conditions, etc.), we have to keep in mind that waterhemp and Palmer amaranth are genetically diverse and adapt rather quickly, and the picture below I believe does a good job illustrating the genetic diversity/adaptation ability of waterhemp (Figure 2). As of today, no waterhemp nor Palmer amaranth populations in the US have been confirmed resistant to glufosinate, but I hypothesize it will not take long for that to happen. Lack of complete waterhemp and Palmer amaranth control with dicamba has also been reported in different parts of the United States.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 dicamba pigweed/IMG_3960.jpg&#34; alt=&#34;&amp;quot;2&amp;quot;&#34; /&gt;&lt;/center&gt;
-&lt;strong&gt;Figure 2. Differential response of waterhemp to POST-emergence glufosinate application. Plants were all collected within a 20-yard radius in the same soybean field. Picture taken in central Illinois on 07/25/2019.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;So yes, the off-target dicamba movement is definitely a big problem and we need to overcome that if dicamba continues to be a part of weed control in soybeans moving forward; however, the culprit of it all is &lt;strong&gt;waterhemp&lt;/strong&gt; in the Midwest and &lt;strong&gt;Palmer amaranth&lt;/strong&gt; in the MidSouth (and parts of the Midwest too). Remember, they are the reason why our growers are spraying dicamba in soybeans. While dicamba off-target movement is turning neighbors, industry and academics against each other, these weeds keep on adapting and we should be, more than ever, all working together towards addressing the challenge that they are posing in our cropping systems.&lt;/p&gt;
-
-&lt;p&gt;A frustration shared with me by a Liberty Link soybean farmer in central IL was that after being “hit” by dicamba for 3 years in a row he will switch to Xtend soybeans in 2020 to protect himself, and that it unacceptable (we all have heard similar stories by now). The traits must be able to coexist (conventional, RR2Y, LL, LLGT27, Xtend, Enlist), and that will only happen if we change our weed management mentality and particularly the way/timing we spray our POST-emergence herbicides. Moreover, trait coexistence is necessary so technologies can be rotated, lowering the selection pressure for additional herbicide resistance.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;My thoughts on how to reduce off-target dicamba movement:&lt;/strong&gt; when used POST-emergence in soybeans, dicamba should be sprayed early in the season and not as a “rescue” program right before soybeans flower (from conversations with stakeholders, this is how dicamba is being currently used in most Xtend soybean cropping systems). Applications should be made by the book (according to the label) and only under appropriate environmental conditions (no temperature inversion; temperatures below 80-85F during and for two days after application; wind constantly blowing towards non-sensitive areas during and for two days after application [&amp;gt;3mph]). In collaboration with other Universities and Industry, my research program has and will continue to investigate strategies and technologies that can help minimize dicamba off-target movement.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 dicamba pigweed/IMG_3972.jpg&#34; alt=&#34;&amp;quot;3&amp;quot;&#34; /&gt;&lt;/center&gt;
-&lt;strong&gt;Figure 3. Puckered soybeans (left), Xtend soybeans (right) and the culprit in the center (waterhemp). Picture taken in central Illinois on 07/25/2019.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;When driving through some corn fields in IL, it’s evident that some growers aren’t as concerned about waterhemp in corn. That’s a similar story in Wisconsin and many other states. One just can’t see the waterhemp in corn from the road in July/August driving at 50 mph or faster. In corn years, growers have several effective herbicide options for waterhemp and Palmer amaranth control, and all efforts should be made not to let these weeds go to seed, which will facilitate weed control in subsequent soybean seasons.&lt;/p&gt;
-
-&lt;p&gt;Lastly, from my travels across the Midwest, it’s evident that weed pressure is higher in headlands/field edges (Figure 4) and I challenge growers to apply more aggressive weed control strategies in these parts of their fields (e.g., additional soil residual herbicides, cover crops, hand weeding, etc.). I intend to write a grant proposal with colleagues across the country this fall and hope to work with growers to evaluate the value of intensified weed control in headland/field margins towards their overall weed control success.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;/img/2019 dicamba pigweed/IMG_3918.jpg&#34; alt=&#34;&amp;quot;4&amp;quot;&#34; /&gt;&lt;/center&gt;
-&lt;strong&gt;Figure 4. Waterhemp infesting the margins of a corn field in central Illinois. Picture taken on 07/25/2019.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The adoption of integrated weed management strategies (e.g., tillage, enhanced crop competition via agronomic cultural practices, cover crops, diversified crop rotations, diversified herbicide mixing and rotations, hand-weeding [ZERO-TOLERANCE approach], etc.) is more than ever a necessity. As a community, we need to continue to think outside the jug so the jugs remain effective and available as we move forward. I hope to be making sense here, provoking some thoughts and not insulting anyone. As a young Extension Weed Scientist it’s disheartening to see farmers against farmers during field days and academics against academics during scientific gatherings due to a “side effect” generated by a problem that is not currently the center of the attention, but should be (&lt;strong&gt;Integrated Management of Waterhemp and Palmer amaranth&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;p&gt;Herein I used IL for my case study; &lt;a href=&#34;https://cropsciences.illinois.edu/people/profile/hager&#34; target=&#34;_blank&#34;&gt;Dr. Aaron Hager&lt;/a&gt; is the Extension Weed Specialist at the University of Illinois. Thanks to my mentors for valuable feedback towards this article.&lt;/p&gt;
-</description>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+Last week I took a group of UW-Madison Graduate Students to participate in the 2019 North American Weed Science Contest in Seymour, IL (July 24-26, 2019). Driving through the Interstate (I-74/I-39), Highways and country side, the off-target herbicide movement (puckered/cupped soybeans) and waterhemp pressure across central IL were evident. Thus, I would like to use this IL scenario as my “case study” for this article.</description>
     </item>
     
     <item>
@@ -729,30 +131,9 @@
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/can-brand-or-generic-herbicides-be-tank-mixed-part-3-we-keep-learning/</guid>
-      <description>&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist)&lt;/p&gt;
-
-&lt;p&gt;Last week I released a blog post attempting to address the question regarding tank mixing safened S-metolachlor/metolachlor, atrazine and/or mesotrione-based products for weed control in corn (see: &lt;a href=&#34;http://www.wiscweeds.info/post/can-brand-or-generic-herbicides-be-tank-mixed-part-2/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;&amp;ldquo;Can brand or generic herbicides be tank-mixed? Part-2&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The mesotrione products that I checked during my label search (i.e., Callisto, Explorer, Mesotrione 4SC and Meso Star) stated the following restriction: &lt;em&gt;“DO NOT apply this product post-emergence in a tank mix with emulsifiable concentrate grass herbicides, unless specifically directed under one of the tank mix section of this label, or crop injury can occur”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Safened S-metolachlor products such as Duall II Magnum, Medal EC and Brawl, and safened metolachlor products such as Me-Too-Lachlor II and Stalwart C labeled for use in corn fall under the &lt;strong&gt;emulsifiable concentrate grass herbicides&lt;/strong&gt; formulation category and thus &lt;strong&gt;SHOULD NOT&lt;/strong&gt; be tank-mixed with the &lt;strong&gt;aforementioned&lt;/strong&gt; mesotrione products for POST-emergence applications in corn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HOWEVER&lt;/strong&gt;, there are several safened S-metolachlor/metolachlor and mesotrione products out there and of course I missed checking the label of some. This week I received calls from chemical retailers in Wisconsin mentioning that my blog post was not completely accurate. Guess what? They were right. I even stated the following in the previous article &lt;em&gt;“Once this post is released there will likely be a “Part 3” coming next because I will certainly forget to address something important; going through the label exercise is not a simple task! That’s when experience comes into play. Growers should always consult an expert before spraying a custom herbicide tank mix. Always read the product label before spraying.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Back to the feedback I received, Drexel Chemical Company has a mesotrione product called &lt;strong&gt;&lt;a href=&#34;http://www.drexchem.com/products/mesotryone-4l-2/&#34; target=&#34;_blank&#34;&gt;MesoTryOne 4L&lt;/a&gt;&lt;/strong&gt;. In their &lt;a href=&#34;https://s3-us-west-1.amazonaws.com/www.agrian.com/pdfs/Drexel1a_MesoTryOne_4L_Label.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;label&lt;/strong&gt;&lt;/a&gt; (page 2), instead of having the particular tank mix being discussed herein under &lt;strong&gt;RESTRICTIONS&lt;/strong&gt;, they have it under &lt;strong&gt;USE PRECAUTIONS&lt;/strong&gt;: &lt;em&gt;“Post-emergence applications of this product in tank-mixes with emulsifiable concentrate grass herbicides may cause severe corn injury or yield loss under adverse weather conditions”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;So in this case, the tank mixing of an emulsifiable concentrate grass herbicide with MesoTryOne 4L POST-emergence in corn is considered a legal application; however, the label states that you must apply under “non-adverse weather conditions” to reduce the potential of crop injury.&lt;/p&gt;
-
-&lt;p&gt;If you go to &lt;em&gt;“Table 5. Tank-mixtures of this Product for PRE-emergence Application in Corn”&lt;/em&gt; (page 9 of the MesoTryOne 4L label), you will see that the mixture of MesoTryOne 4L with Metolachlor (e.g., Me-Too-Lachlor II, Duall II Magnum) is listed; but the same tank mixture is not listed in &lt;em&gt;“Table 6. Tank-mixtures of this Product for Post-emergence Application in Corn”&lt;/em&gt; (page 9 of the label). Moreover, the tank mixture of commercial pre-mixes of Atrazine + Metolachlor (e.g., Trizmet, Bicep II Magnum) with MesoTryOne 4L are listed in Table 6,  but keep in mind that these pre-mixes are formulated as a suspension concentrate. The concern regarding crop injury comes from having mesotrione tank mixed and sprayed POST-emergence with emulsifiable concentrate grass herbicides.&lt;/p&gt;
-
-&lt;p&gt;I truly appreciate the positive criticism and feedback from the clientele and industry colleagues! Though my post was not 100% accurate, I certainly got folks to take a closer look at the labels (mission accomplished!).&lt;/p&gt;
-
-&lt;p&gt;Again, going through the label exercise is not a simple task! That’s when experience comes into play. Growers should always consult an expert before spraying a custom herbicide tank mix.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Disclaimer: I am not endorsing Drexel Chemical Company and the use of their product MesoTryone 4L (nor the opposite). I am just using their product as a pertinent example for the discussions regarding custom herbicide tank mixtures and label restrictions.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Always read the product label before spraying.&lt;/p&gt;
-</description>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+Last week I released a blog post attempting to address the question regarding tank mixing safened S-metolachlor/metolachlor, atrazine and/or mesotrione-based products for weed control in corn (see: &amp;ldquo;Can brand or generic herbicides be tank-mixed? Part-2&amp;rdquo;).
+The mesotrione products that I checked during my label search (i.e., Callisto, Explorer, Mesotrione 4SC and Meso Star) stated the following restriction: “DO NOT apply this product post-emergence in a tank mix with emulsifiable concentrate grass herbicides, unless specifically directed under one of the tank mix section of this label, or crop injury can occur”.</description>
     </item>
     
     <item>
@@ -761,37 +142,9 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/can-brand-or-generic-herbicides-be-tank-mixed-part-2/</guid>
-      <description>&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist)&lt;/p&gt;
-
-&lt;p&gt;Last month we released a blog post entitled &lt;a href=&#34;http://www.wiscweeds.info/post/can-brand-or-generic-herbicides-be-tank-mixed/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;“Can brand or generic herbicides be tank-mixed?&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; and in the first paragraph we wrote &lt;em&gt;“This past week we received several questions regarding herbicide tank mixtures. One common question was whether brand and/or generic S-metolachlor/metolachlor, atrazine and/or mesotrione-based products could be tank-mixed”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;After speaking with industry colleagues, I learned that in the original blog post we described several important aspects to consider when developing a custom herbicide tank mix but did not actually answer if S-metolachlor/safened metolachlor, atrazine and/or mesotrione-based products could be tank-mixed; herein I will attempt to address this question.&lt;/p&gt;
-
-&lt;p&gt;As always, the answer is &lt;strong&gt;“it depends”&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lumax EZ is a popular pre-mix corn herbicide that contains S-metolachlor, atrazine and mesotrione. Lumax EZ herbicide can be sprayed PRE and early-POST in corn (according to the label: &lt;em&gt;“Postemergence applications to field corn must be made before crop reaches 12 inches in height”&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;If a grower decides to make his/her own “Lumax-equivalent” custom tank mix, that tank mix can be sprayed before corn emergence. After corn emergence, there is a caveat to be considered; the label of mesotrione-based products such as Callisto, Explorer, Mesotrione 4SC and Meso Star state the following restriction: &lt;strong&gt;&lt;em&gt;“DO NOT apply this product post-emergence in a tank mix with emulsifiable concentrate grass herbicides, unless specifically directed under one of the tank mix section of this label, or crop injury can occur”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;S-metolachlor-based products such as Duall II Magnum, Medal EC and Brawl, and safened metolachlor-based products such as Me-Too-Lachlor and Stalwart C labeled for use in corn fall under the &lt;strong&gt;emulsifiable concentrate grass herbicides&lt;/strong&gt; formulation category and thus &lt;strong&gt;SHOULD NOT&lt;/strong&gt; be tank-mixed with the aforementioned mesotrione-based products for POST-emergence applications in corn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q&amp;amp;A:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Can S-metolachlor/safened metolachlor be tank-mixed with atrazine and sprayed POST-emergence in corn? &lt;strong&gt;YES&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Can mesotrione be tank-mixed with atrazine and sprayed POST-emergence in corn? &lt;strong&gt;YES&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Can S-metolachlor/safened metolachlor be tank-mixed with mesotrione and sprayed POST-emergence in corn? &lt;strong&gt;NO&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Can S-metolachlor/safened metolachlor, atrazine and mesotrione be tank-mixed and sprayed POST-emergence in corn? &lt;strong&gt;NO&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Additionally, pay attention to the: i) geographic restrictions (for instance atrazine use is prohibited in parts of Wisconsin), ii) maximum use rate of a pesticide per application and iii) total pesticide use within a season. Always follow the most restrictive tank mix instructions for the products involved.&lt;/p&gt;
-
-&lt;p&gt;Check our 2018 post &lt;a href=&#34;http://www.wiscweeds.info/post/geographic-restrictions-for-corn-and-soybean-pre-emergence-herbicides-in-wisconsin/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;“Geographic Restrictions for Corn and Soybean PRE-emergence Herbicides in Wisconsin”&lt;/strong&gt;&lt;/a&gt; for additional geographic restriction information.&lt;/p&gt;
-
-&lt;p&gt;Once this post is released there will likely be a “Part 3” coming next because I will certainly forget to address something important; going through the label exercise is not a simple task! That’s when experience comes into play. Growers should always consult an expert before spraying a custom herbicide tank mix.&lt;/p&gt;
-
-&lt;p&gt;Always read the product label before spraying.&lt;/p&gt;
-</description>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+Last month we released a blog post entitled “Can brand or generic herbicides be tank-mixed?&amp;rdquo; and in the first paragraph we wrote “This past week we received several questions regarding herbicide tank mixtures. One common question was whether brand and/or generic S-metolachlor/metolachlor, atrazine and/or mesotrione-based products could be tank-mixed”.
+After speaking with industry colleagues, I learned that in the original blog post we described several important aspects to consider when developing a custom herbicide tank mix but did not actually answer if S-metolachlor/safened metolachlor, atrazine and/or mesotrione-based products could be tank-mixed; herein I will attempt to address this question.</description>
     </item>
     
     <item>
@@ -800,36 +153,8 @@
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/herbicide-rotation-restrictions-before-planting-industrial-hemp/</guid>
-      <description>&lt;p&gt;By Nick Arneson (UW-Madison Weed Science Outreach Specialist), David Wang (UW-Madison Undergraduate Research Scholar) and &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist)&lt;/p&gt;
-
-&lt;p&gt;With the growing interest in producing industrial hemp in Wisconsin and beyond, it is important to pay close attention to rotation interval restrictions when planting this crop in conventional production fields where herbicides are adopted. Though no synthetic herbicides are labeled for weed control in industrial hemp in the United States at this time, it’s important to keep in mind that herbicides sprayed in previous crops can have an impact on the industrial hemp crop establishment and development. Moreover, the pesticide label is the law and should be followed accordingly.&lt;/p&gt;
-
-&lt;p&gt;Below you will find a comprehensive list of herbicides commonly used in corn-soybean rotations and their respective plant rotation restrictions (in months after application) for industrial hemp planting according to their respective labels. Note that the most restrictive interval for each product is listed below (for some products the rotation restriction may be shorter depending upon rate used, geography, soil pH, annual precipitation, etc.; please double check the label). Since industrial hemp is a new crop and thus not part of current label languages, its rotational restrictions fall under “other crops” when searching for this information in the product labels. See video &lt;a href=&#34;https://vimeo.com/333384395&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;“Weed Talk: 2019 Industrial Hemp Herbicide Carryover Considerations”&lt;/strong&gt;&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rotation Restrictions Before Planting Industrial Hemp (in Months After Application):&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;0 months&lt;/strong&gt; = Cadet, Cobra, Glyphosate 4 Plus, Glyphosate 5.4, Gramoxone SL 2.0, Roundup PowerMAX&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1 month&lt;/strong&gt; = Fusilade DX, Resource, Select Max&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1.5 months&lt;/strong&gt; = Harmony SG&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3 months&lt;/strong&gt; = 2,4-D (e.g., 2,4-D Amine, Barrage HF, Salvo, Shredder 2,4-D LV4)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;4 months&lt;/strong&gt; = Assure II, dicamba (e.g., Clarity, Engenia, Fexapan, Status, XtendiMax)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;6 months&lt;/strong&gt; = Liberty 280&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;9 months&lt;/strong&gt; = Confidence, Harness, Outlook, Sharpen, Verdict, Warrant&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;12 months&lt;/strong&gt; = Aim, Authority Elite, Boundary, Cinch, Command 3ME, Dual II Magnum, Parallel&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;18 months&lt;/strong&gt; = Anthem, Anthem Maxx, Armezon, Authority MTZ, Balance Flexx, Basis Blend, Beacon, Callisto, Callisto GT, Corvus, Dimetric DF 75%, FirstRate, Halex GT, Impact, Instigate, Lumax EZ, Prefix, Prequel, Raptor, Require Q, Resolve DF, Resolve Q, Resolve SG, Rowel, Solstice, Spirit, Valor SX, Valor EZ, Vise, Zemax, Zidua, Zidua SC&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;24 months&lt;/strong&gt; = Prowl H2O&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;26 months&lt;/strong&gt; = Hornet, SureStart II, TripleFLEX&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;30 months&lt;/strong&gt; = Authority Assist, Authority First, Canopy, Classic, Enlite, Envive, Rowel FX, Sonic, Synchrony, Trivence, Valor XLT&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;36 months&lt;/strong&gt; = Authority Maxx, Authority XL, Permit&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;40 months&lt;/strong&gt; = Extreme, Optill, Optill PRO, Pursuit, Torment&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We will soon release an in-detail publication with additional information on how herbicide rates and soil characteristics influence rotational Industrial Hemp crop restrictions. Stay tuned!&lt;/p&gt;
-
-&lt;p&gt;Always read, understand and follow the pesticide label.&lt;/p&gt;
-</description>
+      <description>By Nick Arneson (UW-Madison Weed Science Outreach Specialist), David Wang (UW-Madison Undergraduate Research Scholar) and Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+With the growing interest in producing industrial hemp in Wisconsin and beyond, it is important to pay close attention to rotation interval restrictions when planting this crop in conventional production fields where herbicides are adopted. Though no synthetic herbicides are labeled for weed control in industrial hemp in the United States at this time, it’s important to keep in mind that herbicides sprayed in previous crops can have an impact on the industrial hemp crop establishment and development.</description>
     </item>
     
     <item>
@@ -838,37 +163,211 @@
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/can-brand-or-generic-herbicides-be-tank-mixed/</guid>
-      <description>
-
-&lt;p&gt;by &lt;a href=&#34;https://agronomy.wisc.edu/rodrigo-werle/&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; (UW-Madison Extension Cropping Systems Weed Scientist)&lt;br /&gt;
-and &lt;a href=&#34;https://fyi.extension.wisc.edu/pat/&#34; target=&#34;_blank&#34;&gt;Glenn Nice&lt;/a&gt; (UW-Madison Pesticide Applicator Training Program Manager)&lt;/p&gt;
-
-&lt;p&gt;With the onset of the spray season and concerns regarding waterhemp and other troublesome weed species, farmers and consultants are further diversifying and including herbicides with soil residual activity in their weed control programs. This past week we received several questions regarding herbicide tank mixtures. One common question was whether brand and/or generic s-metolachlor/metolachlor-, atrazine- and/or mesotrione-based products could be tank-mixed. The Federal Insecticide, Fungicide and Rodenticide Act &lt;a href=&#34;https://www.epa.gov/enforcement/federal-insecticide-fungicide-and-rodenticide-act-fifra-and-federal-facilities&#34; target=&#34;_blank&#34;&gt;(&lt;strong&gt;FIFRA&lt;/strong&gt;)&lt;/a&gt; allows for the tank mixing of any pesticides or pesticides with fertilizer when &lt;strong&gt;NOT&lt;/strong&gt; prohibited on the label. This means that, as long as it is not prohibited on the label, you can mix various registered labeled herbicides for weed control in a particular crop. However, there are a few things you should be aware of:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;follow the proper order for tank mixing (see Purdue Extension Publication: &lt;a href=&#34;https://ppp.purdue.edu/wp-content/uploads/files/PPP-122.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;&amp;ldquo;Avoid Tank Mixing Errors&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;some pesticides are not compatible (they can be chemically or physically incompatible). Thus, a jar test should be conducted prior to mixing and spraying to assure the products are indeed compatible. Remember, you are responsible if the mix “goes bad” in the tank.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;follow the most restrictive tank mix instructions for the products involved.&lt;/li&gt;
-&lt;li&gt;keep in mind that use rates vary by product and formulation; don&amp;rsquo;t assume that rates are the same for all products with the same active ingredient.&lt;/li&gt;
-&lt;li&gt;many labels, for example the new dicamba products registered for use in dicamba-resistant soybeans (Xtend), have statements such as: &lt;strong&gt;use approved tank mix products as directed by the label or website&lt;/strong&gt;. This statement prohibits all tank mixes except for the ones the manufacturer has approved and specifies in their labels or webpages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While making your own pre-mix may reduce costs, it may increase the chances for error (e.g., the likelihood of accurately picking and measuring one product off of the shelf is higher than when multiple tank mix partners are involved) thus increasing the potential for crop injury, carryover concerns and/or lack of appropriate weed control. Commercially available pre-mix herbicides have been extensively studied by the chemical companies with the objective to enhance weed control while minimizing crop injury.&lt;/p&gt;
-
-&lt;p&gt;When developing a custom pre-mix or selecting a commercially available pre-mix herbicide, it’s important that farmers and crop consultants understand their target weed species and soil types, and have a solid crop rotation plan in mind. Knowing the weed species present in a particular field will allow for selecting effective active ingredient(s) to optimize weed control while minimizing the spray of unnecessary active ingredients. Understanding that soils (texture, pH and OM) vary across and within fields will allow for proper herbicide rate selection, optimizing weed control while minimizing chances for crop injury and/or carryover into subsequent crops.&lt;/p&gt;
-
-&lt;h2 id=&#34;for-assistance-with-herbicide-selection&#34;&gt;&lt;strong&gt;For assistance with herbicide selection&lt;/strong&gt;:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learningstore.uwex.edu/Assets/pdfs/A3646.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Pest Management in Wisconsin Field Crops&lt;/strong&gt;&lt;/a&gt;
-UWEX Bulletin A3646&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ipcm.wisc.edu/download/pubsPM/Herbicide-Mode-of-Action.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Wisconsin Herbicide Mode of Action Chart&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Always read, understand and follow the pesticide label.&lt;/p&gt;
-
-&lt;p&gt;Thanks to &lt;a href=&#34;https://horticulture.wisc.edu/directory/jed-colquhoun/&#34; target=&#34;_blank&#34;&gt;Dr. Jed Colquhoun&lt;/a&gt; (UW-Madison Professor and Extension Weed Scientist) for valuable feedback towards this article.&lt;/p&gt;
-</description>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+and Glenn Nice (UW-Madison Pesticide Applicator Training Program Manager)
+With the onset of the spray season and concerns regarding waterhemp and other troublesome weed species, farmers and consultants are further diversifying and including herbicides with soil residual activity in their weed control programs. This past week we received several questions regarding herbicide tank mixtures. One common question was whether brand and/or generic s-metolachlor/metolachlor-, atrazine- and/or mesotrione-based products could be tank-mixed.</description>
+    </item>
+    
+    <item>
+      <title>Are You PRE-pared for the Soybean (and Waterhemp) Growing Season?</title>
+      <link>/post/are-you-pre-pared-for-the-soybean-growing-season/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/are-you-pre-pared-for-the-soybean-growing-season/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+and Shawn Conley (UW-Madison Extension Soybean and Small Grain Specialist)
+Spring has arrived rather quickly in Wisconsin and the planting season is right around the corner (or perhaps it has already started for some growers). Before getting their soybeans in the ground, farmers should make sure they have solid weed management plans for the growing season, particularly if waterhemp is present in their operations.</description>
+    </item>
+    
+    <item>
+      <title>Strategies and Considerations for Termination of Cereal Rye Cover Crop</title>
+      <link>/post/considerations-and-strategies-for-termination-of-cereal-rye-cover-crop/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/considerations-and-strategies-for-termination-of-cereal-rye-cover-crop/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist), Dan Smith (UW NPM Southwest Wisconsin Regional Specialist) and Shawn Conley (UW-Madison Extension Soybean and Small Grain Specialist)
+*Adapted from original article written by Rodrigo Werle and Dan Smith, 2018.
+Fall-planted cereal rye is increasingly used as a cover crop to protect the soil during winter and spring in corn and soybean cropping systems across the Midwest. Our 2018 survey indicated that 77% of Wisconsin farmers and Ag professionals are interested in cover crops.</description>
+    </item>
+    
+    <item>
+      <title>2019 Wisconsin Regional Waterhemp Workshops</title>
+      <link>/post/2019-wisconsin-regional-waterhemp-workshops/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-wisconsin-regional-waterhemp-workshops/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+According to our 2018 weed management SURVEY, waterhemp has become the most concerning weed species in field crop production in Wisconsin. Thus, we invite farmers and crop advisors to attend one of our Wisconsin Regional Waterhemp Workshops to be held in four locations across the state in March of 2019.
+ These workshops are FREE with 3 CEUs (PM) available.</description>
+    </item>
+    
+    <item>
+      <title>2018 Wisconsin Weed Science Research Report</title>
+      <link>/post/2018-wisconsin-weed-science-research-report/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-wisconsin-weed-science-research-report/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and Ryan DeWerff (UW-Madison Weed Science Research Specialist)
+The purpose of this report is to share the results of twenty-three corn and soybean herbicide evaluation research trials conducted by the WiscWeeds Program during the 2018 growing season. Information in this report does not constitute a recommendation or endorsement of any particular product or practice. Information in this report also does not replace any information presented on pesticide labels.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the additional buffer requirements for dicamba applications in Xtend (dicamba-tolerant) crops</title>
+      <link>/post/dicamba-buffer-requirements/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dicamba-buffer-requirements/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+On October 31, 2018 the United States Environmental Protection Agency (EPA) announced their decision to extend the registration of the dicamba products Engenia, Fexapan, and Xtendimax for use in dicamba-tolerant crops (Xtend technology) through December 20, 2020; however, additional label changes were made.
+A particular change that has led to some questioning is the new 57-foot omnidirectional buffer requirement to protect federally listed threatened and endangered species and critical habitat in specific US counties.</description>
+    </item>
+    
+    <item>
+      <title>Herbicide Resistance in Wisconsin: An Overview (December 2018)</title>
+      <link>/post/herbicide-resistance-in-wisconsin-an-overview/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/herbicide-resistance-in-wisconsin-an-overview/</guid>
+      <description>Joseph Zimbric (UW-Madison Agronomy Graduate Student), David Stoltenberg (UW-Madison Agronomy Professor), Mark Renz (UW-Madison Extension Weed Scientist) and Rodrigo Werle (UW-Madison Extension Weed Scientist)
+20 Unique Cases of Herbicide Resistance in Wisconsin  20 unique cases (weed species by herbicide site of action) of herbicide resistance have been confirmed in Wisconsin, including 13 weed species with evolved resistance to one or more herbicide sites of action (Figure 1, Table 1).</description>
+    </item>
+    
+    <item>
+      <title>2018 UW Waterhemp Challenge: Comparison of Soil Residual Soybean Herbicides</title>
+      <link>/post/2018-uw-waterhemp-challenge-comparison-of-soil-residual-soybean-herbicides/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-uw-waterhemp-challenge-comparison-of-soil-residual-soybean-herbicides/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist), Dan Smith (UW NPM Southwest Wisconsin Regional Specialist) and Richard Proost (UW NPM Sr. Outreach Specialist)
+Waterhemp management in soybeans was a challenge for several farmers in 2018. As we finalize harvesting our crops, it’s important to properly map the fields infested with waterhemp and start developing an effective management plan for 2019.
+The use of PRE-emergence herbicides is a foundation for waterhemp control in soybeans.</description>
+    </item>
+    
+    <item>
+      <title>Herbicide Site of Action Key for Crop Injury Symptoms</title>
+      <link>/post/herbicide-site-of-action-key-for-crop-injury-symptoms/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/herbicide-site-of-action-key-for-crop-injury-symptoms/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and
+Maxwel Oliveira (UW-Madison Weed Science Postdoctoral Research Associate)
+With the widespread occurrence of herbicide-resistant weeds, corn and soybean farmers are having to diversify their herbicide programs to obtain adequate levels of weed control. The increased herbicide diversification increases the likelihood of crop injury due to carryover, misapplication, tank contamination, and/or drift.
+To help you determine which herbicide(s) may be responsible for suspected injury on crops, this key uses the herbicide’s site of action (SoA) and respective Weed Science Society of America group number; herbicides within the same SoA can cause similar symptoms.</description>
+    </item>
+    
+    <item>
+      <title>Wisconsin Waterhemp Herbicide Resistance Project</title>
+      <link>/post/wisconsin-waterhemp-herbicide-resistance-project/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/wisconsin-waterhemp-herbicide-resistance-project/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+According to our recent SURVEY, waterhemp has become the most concerning weed in row crop production in Wisconsin. Thus, we invite Wisconsin farmers and agronomists to collect waterhemp seeds this fall from their row crop production fields and submit them to UW-Madison for herbicide resistance screenings (we ask farmers to collect samples from only one of their fields; preferably the one with the most troublesome infestation level).</description>
+    </item>
+    
+    <item>
+      <title>Dicamba Use in Wisconsin Soybean Production - SURVEY</title>
+      <link>/post/dicamba-use-in-wisconsin-soybean-production-survey/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dicamba-use-in-wisconsin-soybean-production-survey/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+In 2017 the Xtend soybean technology was completely launched in the United States (e.g., Environmental Protection Agency [EPA] approval of dicamba-tolerant seed trait and POST-emergence application of labeled dicamba formulations). Despite the great level of broadleaf weed control observed when dicamba was sprayed POST-emergence in Xtend soybeans, particularly of the troublesome weeds giant ragweed and waterhemp, off-target dicamba movement is still a concern.</description>
+    </item>
+    
+    <item>
+      <title>Reporting Dicamba-Injured Acreage in Wisconsin</title>
+      <link>/post/reporting-dicamba-injured-acreage-in-wisconsin/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reporting-dicamba-injured-acreage-in-wisconsin/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+At the beginning of July, the weather finally became conducive for POST-emergence herbicide applications in southern Wisconsin, including for dicamba application in Xtend (dicamba-tolerant) soybeans. Typically, injury from micro-rates of dicamba (via tank-contamination, particle and/or vapor drift) in susceptible crops tends to show at 10-14 days after the incident (see: Soybean Injury From Dicamba A4161). Driving around the southern part of Wisconsin this past week, I have noticed a couple instances of dicamba injury in soybeans (I estimate less than 15 total injured acres).</description>
+    </item>
+    
+    <item>
+      <title>Application window for most soybean herbicides coming close to an end</title>
+      <link>/post/application-window-for-most-soybean-herbicides-coming-close-to-an-end/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/application-window-for-most-soybean-herbicides-coming-close-to-an-end/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+Excessive and constant rainfall through the season thus far across southern Wisconsin has challenged timely herbicide applications in our experimental plots. If not raining, the wind was often blowing or the soil was too wet to even backpack spray. After spending several years in Nebraska, I learned that one can’t complain about rain, but come on! Still, we have managed to get most of our herbicide treatments out (thanks to a dedicated and hard-working research team that is literally not afraid of getting some mud on their boots!</description>
+    </item>
+    
+    <item>
+      <title>Palmer amaranth is now a prohibited noxious weed seed in Wisconsin, but what does it look like?</title>
+      <link>/post/palmer-amaranth-is-now-a-prohibited-noxious-weed-seed-in-wisconsin-but-what-does-it-look-like/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/palmer-amaranth-is-now-a-prohibited-noxious-weed-seed-in-wisconsin-but-what-does-it-look-like/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+Under a new emergency rule, Palmer amaranth has been labeled as a prohibited noxious weed seed in Wisconsin. Given Palmer amaranth&amp;rsquo;s aggressive nature, this is a worthwhile and necessary attempt to keep this troublesome weed species out of the state. For more details, see DATCP article: “Keep an Eye Out for Palmer Amaranth, DATCP Cautions”.
+Palmer amaranth’s late and extended emergence window throughout the growing season and vigorous growth rate (up to 2 inches per day under ideal conditions) make control in row crops very difficult.</description>
+    </item>
+    
+    <item>
+      <title>Waterhemp management in soybeans</title>
+      <link>/post/waterhemp-management-in-soybeans/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/waterhemp-management-in-soybeans/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+According to our recent SURVEY, waterhemp has become the most concerning weed in row crop production in Wisconsin. Adding to that challenge, glyphosate-resistant waterhemp populations have been confirmed in 25 Wisconsin counties (see map below). Furthermore, PPO-resistant waterhemp has been confirmed in 4 counties (Iowa, Monroe, Saint Croix, and Pierce). Resistance to ALS-inhibiting herbicides is widespread across the Midwest but has not been fully investigated in Wisconsin.</description>
+    </item>
+    
+    <item>
+      <title>Strategies for Late Termination of Cereal Rye Cover Crop</title>
+      <link>/post/strategies-for-late-termination-of-cereal-rye-cover-crop/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/strategies-for-late-termination-of-cereal-rye-cover-crop/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and Dan Smith (UW NPM Southwest Wisconsin Regional Specialist)
+Fall-planted cereal rye is increasingly used as a cover crop to protect the soil during winter and spring in corn and soybean cropping systems across the Midwest. Our recent survey indicated that 77% of Wisconsin farmers and Ag professionals are interested in cover crops.
+Fall-planted cereal rye is growing rapidly in southern Wisconsin and it’s important to have a termination plan in mind prior to crop establishment.</description>
+    </item>
+    
+    <item>
+      <title>Are you PRE-emergence ready for soybean planting?</title>
+      <link>/post/are-you-pre-emergence-ready-for-soybean-planting/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/are-you-pre-emergence-ready-for-soybean-planting/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist)
+and Shawn Conley (UW-Madison Extension Soybean and Small Grain Specialist)
+Spring has finally arrived in Wisconsin and so has the planting season. Before getting your soybeans in the ground, make sure you have plans for your PRE-emergence herbicide program. According to our recent SURVEY, several Wisconsin soybean fields get only treated with a one-pass POST-emergence herbicide program. Because of the spread of weed species resistant to glyphosate and/or other POST-emergence herbicides (e.</description>
+    </item>
+    
+    <item>
+      <title>Geographic Restrictions for Corn and Soybean PRE-emergence Herbicides in Wisconsin</title>
+      <link>/post/geographic-restrictions-for-corn-and-soybean-pre-emergence-herbicides-in-wisconsin/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geographic-restrictions-for-corn-and-soybean-pre-emergence-herbicides-in-wisconsin/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and
+Richard Proost (UW NPM Sr. Outreach Specialist)
+PRE-emergence herbicides are the foundation for good weed control in corn and soybeans, particularly with the spread of herbicide-resistant weeds. The use of some PRE-emergence herbicides is limited to certain regions or counties in Wisconsin. Prior to selecting a herbicide for your weed management program, make sure the same is approved for use in your region by the Department of Agriculture, Trade and Consumer Protection (DATCP).</description>
+    </item>
+    
+    <item>
+      <title>2018 Wisconsin Cropping Systems Weed Science Survey - Where are we at?</title>
+      <link>/post/2018-wisconsin-cropping-systems-weed-science-survey/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-wisconsin-cropping-systems-weed-science-survey/</guid>
+      <description>by Rodrigo Werle (UW-Madison Extension Cropping Systems Weed Scientist) and
+Maxwel Oliveira (UW-Madison Weed Science Postdoctoral Research Associate)
+Introduction The objective of our survey was to evaluate the main weed species and management strategies adopted in Wisconsin cropping systems, particularly in corn and soybeans. The survey was conducted this winter during the 2018 Wisconsin Agronomy Update Meetings, held across the state. A total of 286 respondents, representing 54 counties, completed the survey.</description>
+    </item>
+    
+    <item>
+      <title>Welcoming New WiscWeeds Team Members</title>
+      <link>/post/welcoming-new-wiscweeds-team-members/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcoming-new-wiscweeds-team-members/</guid>
+      <description>I am excited to introduce and welcome the new members of the Wisconsin Cropping Systems Weed Science (WiscWeeds) Program: Maxwel Oliveira, Ryan DeWerff, Sarah Striegel, Victor Ribeiro and Nikola Arsenijevic.  Dr. Maxwel Coura Oliveira (Postdoctoral Research Associate)
+Maxwel started at the University of Wisconsin-Madison as a Weed Science Postdoctoral Research Associate in January 2018 in Dr. Werle’s program. Maxwel was born in the state of Minas Gerais, Brazil. He earned his B.</description>
     </item>
     
   </channel>
