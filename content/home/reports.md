@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2020**
 
+**[2020 WiscWeeds Comparison of POST-emergence Corn and Soybean Herbicides (Slides)](/img/2020 Giant Ragweed Control/2020 WiscWeeds Giant Ragweed POST.pdf)**  
+
 **[2020 Post-emergence Corn and Soybean Herbicide Product Restrictions for Broadcast Applications](/img/2020 POST Window/2020 POST Herbicide Application Window_Final.pdf)**  
 
 ## **2019**
