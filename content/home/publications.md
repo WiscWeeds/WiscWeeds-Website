@@ -36,7 +36,15 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-*27 Manuscripts & 1 Book Chapter*
+*20 Manuscripts & 1 Book Chapter*
+
+## **2020**  
+
+**31.** Soltani, N., M.C. Oliveira, G.S. Alves, **R. Werle**, J.K. Norsworthy, C.L. Sprague, B.G. Young, D.B. Reynolds, A. Brown, and P. Sikkema. 2020. [Large-scale off-target movement assessment of dicamba in North America] (https://doi.org/10.1017/wet.2020.17). Weed Technology.34:318-330.     
+
+**30.** Sciarresi, C., C. Proctor, E.R. Haramoto, L.E. Lindsey, G.I. Carmona, R. Elmore, S. Everhart, W. Looker, M. Marroquin-Guzman, J. McMechan, J. Wehrbein, **R. Werle**, and M. Salmeron. 2020. [Evaluating short-season soybean management adaptations for cover crop rotations with a crop simulation model] (https://doi.org/10.1016/j.fcr.2020.107734). Field Crops Research. 250:107734.    
+
+**29.** B.C. Vieira, J.D. Luck, K.L. Amundsen, **R. Werle**, T.A. Gaines, and G.R. Kruger. 2020. [Herbicide drift exposure leads to reduced herbicide sensitivity in Amaranthus spp] (https://doi.org/10.1038/s41598-020-59126-9). Scientific Reports. 10:2146.  
 
 ## **2019**  
 

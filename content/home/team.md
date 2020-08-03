@@ -70,6 +70,11 @@ ____
 Haleigh is an MS graduate student at UW-Madison (from Stayton, Minnesota; BS from University of Minnesota) working on evaluating cultivation methods for industrial hemp production. 
 ____
 
+**Jose Jr. Nunes** (Visiting MS Weed Science Graduate Student):
+<center>![Jose Jr Nunes] (/img/team/Jose Jr Nunes.jpg)</center>
+Jose Jr. is a visiting MS graduate student at UW-Madison (from Mato Grosso, Brazil; BS from the University of Cuiaba) working on the impact of soil and cover crop management strategies on the deposition and fate of PRE-emergence herbicides in soybean cropping systems. In Brazil he is investigating goosegrass (*Eleusine indica*) resistance to glyphosate, clethodim, and haloxyfop-methyl.  
+____
+
 **Alex Rosa** (PhD Agronomy Graduate Student - University of Nebraska):
 <center>![Victor Ribeiro] (/img/team/Alex Rosa.jpg)</center>
 Alex is a PhD graduate student at UNL (from Rio Grande do Sul, Brazil; BS from Federal University of Rio Grande do Sul and MS from Kansas State University) working on evaluating the impact of wheat stubble management and cover crops on semi-arid rainfed cropping systems of western Nebraska. 
