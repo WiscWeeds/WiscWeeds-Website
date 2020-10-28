@@ -36,9 +36,13 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-*30 Manuscripts & 1 Book Chapter*
+*32 Manuscripts & 1 Book Chapter*
 
 ## **2020**  
+
+**33.** Bagavathiannan, M., H. Beckie, G. Chantre, J.L. Gonzalez-Andjujar, R. Leon, P. Neve, S. Poggio, B.J. Schutte, G.J. Somerville, R. Werle., and R.C. Van Acker. [Simulation models in weed ecology and management: structure, quantitative insights, and applications] (https://doi.org/10.3390/agronomy10101611). Agronomy. 10(10), 1611. 
+
+**32.** Oliveira, M.C., O.A. Ospitan, K. Begcy, and **R. Werle**. 2020. [Cover crops, hormones and herbicides: Priming integrated weed management strategies] (https://doi.org/10.1016/j.plantsci.2020.110550). Plant Science. 301:110550 (*invited submission*).
 
 **31.** Soltani, N., M.C. Oliveira, G.S. Alves, **R. Werle**, J.K. Norsworthy, C.L. Sprague, B.G. Young, D.B. Reynolds, A. Brown, and P. Sikkema. 2020. [Large-scale off-target movement assessment of dicamba in North America] (https://doi.org/10.1017/wet.2020.17). Weed Technology.34:318-330.     
 

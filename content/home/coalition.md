@@ -19,11 +19,14 @@ count = 10
 list_format = 0
 
 +++
-**WiscWeeds Research Coalition - Ongoing Projects:**  
 
-+ **[Wisconsin Waterhemp Herbicide Resistance Project] (http://127.0.0.1:6723/post/wisconsin-waterhemp-herbicide-resistance-project-2019-update/)**
+**WiscWeeds Research Coalition - Ongoing Projects:**
 
-+ **[Wisconsin Combine Weed Seed Collection Project] (http://127.0.0.1:6723/post/2019-wiscweeds-research-coalition-combine-weed-seed-collection-project/)** 
+
++ **[Wisconsin Waterhemp Herbicide Resistance Project] (https://www.wiscweeds.info/post/wisconsin-waterhemp-herbicide-resistance-project-2019-update/)**
+
++ **[Weed Seed Movement Via Combines: 2019-2020 Case Study (PDF)] (/img/2020 combine/Weed Seed Movement via Combines.pdf)** 
+
 
 <center>!["Logo"] (/img/2019 WiscWeeds Coalition/WiscWeeds Research Coalition Logo.jpg)</center>
 

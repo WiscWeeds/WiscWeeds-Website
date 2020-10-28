@@ -32,7 +32,12 @@ ____
 
 [**Maxwel Coura Oliveira**] (https://maxweeds.rbind.io/) (Weed Science Postdoctoral Research Associate):
 <center>![Maxwel Oliveira] (/img/team/Maxwel Oliveira.jpg)</center>
-Dr. Oliveira is a Postdoctoral Research Associate at UW-Madison (from Minas Gerais, Brazil; BS and MS from Federal University of Jequitinhonha and Mucuri Valleys, and PhD from University of Nebraska-Lincoln) investigating the distribution and management of herbicide-resistant weeds in Wisconsin and evaluating weed management strategies in corn, soybeans, and small grains. He trains the Badger Weeds Team, mentors graduate and undergraduate students in the Cropping Systems Weed Science program and assists with the Wisconsin Herbicide Evaluation Program.
+Dr. Oliveira is a Postdoctoral Research Associate at UW-Madison and also an Assistant Professor at Western São Paulo University, Brazil (from Minas Gerais, Brazil; BS and MS from Federal University of Jequitinhonha and Mucuri Valleys, and PhD from University of Nebraska-Lincoln) investigating the distribution and management of herbicide-resistant weeds in Wisconsin and evaluating weed management strategies in corn, soybeans, and small grains. He trains the Badger Weeds Team, mentors graduate and undergraduate students in the Cropping Systems Weed Science program and assists with the Wisconsin Herbicide Evaluation Program.
+____
+
+**Alex Rosa** (Weed Science Postdoctoral Research Associate):
+<center>![Victor Ribeiro] (/img/team/Alex Rosa.jpg)</center>
+Dr. Rosa is a Postdoctoral Research Associate at UW-Madison (from Rio Grande do Sul, Brazil; BS from Federal University of Rio Grande do Sul, MS from Kansas State University, and PhD from University of Nebraska-Lincoln) investigating the distribution of herbicide-resistant weeds in Wisconsin and evaluating integrated weed management strategies in corn, soybeans, and small grains. He mentors graduate and undergraduate students in the Cropping Systems Weed Science program and assists with the Wisconsin Herbicide Evaluation Program.
 ____
 
 **Dan Smith** (UW-NPM Southwest Wisconsin Regional Agronomy Specialist):
@@ -40,9 +45,9 @@ ____
 Dan is a Southwest Regional Agronomist for the UW-Madison Nutrient and Pest Management Program (from Walnut, Illinois; BS from University of Wisconsin-Platteville and MS from University of Wisconsin-Madison) providing technical assistance towards weed science research and outreach activities. 
 ____
 
-**Sarah Striegel** (MS Weed Science Graduate Student):
+**Sarah Striegel** (Weed Science Research Assistant):
 <center>![Sarah Striegel] (/img/team/Sarah Striegel.jpg)</center>
-Sarah is an MS graduate student at UW-Madison (from What Cheer, Iowa; BS from Iowa State University) working on optimizing dicamba use in RR2Xtend soybean systems and mitigating potential for off-target movement. 
+Sarah is a research assistant at UW-Madison (from What Cheer, Iowa; BS from Iowa State University and MS from UW-Madison) working on optimizing dicamba use in RR2Xtend soybean systems and mitigating potential for off-target movement. 
 ____
 
 **Nikola Arsenijevic** (MS Weed Science Graduate Student):
@@ -73,11 +78,7 @@ ____
 **Jose Jr. Nunes** (Visiting MS Weed Science Graduate Student):
 <center>![Jose Jr Nunes] (/img/team/Jose Jr Nunes.jpg)</center>
 Jose Jr. is a visiting MS graduate student at UW-Madison (from Mato Grosso, Brazil; BS from the University of Cuiaba) working on the impact of soil and cover crop management strategies on the deposition and fate of PRE-emergence herbicides in soybean cropping systems. In Brazil he is investigating goosegrass (*Eleusine indica*) resistance to glyphosate, clethodim, and haloxyfop-methyl.  
-____
 
-**Alex Rosa** (PhD Agronomy Graduate Student - University of Nebraska):
-<center>![Victor Ribeiro] (/img/team/Alex Rosa.jpg)</center>
-Alex is a PhD graduate student at UNL (from Rio Grande do Sul, Brazil; BS from Federal University of Rio Grande do Sul and MS from Kansas State University) working on evaluating the impact of wheat stubble management and cover crops on semi-arid rainfed cropping systems of western Nebraska. 
 ____
 
 ## **Former Lab Members**  

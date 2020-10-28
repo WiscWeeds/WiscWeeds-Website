@@ -16,7 +16,11 @@ weight = 30
 +++
 ## **2020**
 
-**[Weed Seed Movement Via Combines: 2019-2020 Case Study (PDF)] (/img/2020 combine/Weed Seed Movement via Combines.pdf)**
+**[WISCWEEDS RESEARCH UPDATE SERIES, Article 2: Soybean injury as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 2_Low tunnel volatility.pdf)** 
+
+**[WISCWEEDS RESEARCH UPDATE SERIES, Article 1: Spray solution pH as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 1_Spray Solution pH.pdf)**
+
+**[Weed Seed Movement Via Combines: 2019-2020 Case Study (PDF)] (/img/2020 combine/Weed Seed Movement via Combines.pdf)** 
 
 **[2020 WiscWeeds Comparison of POST-emergence Corn and Soybean Herbicides (Slides)](/img/2020 Giant Ragweed Control/2020 WiscWeeds Giant Ragweed POST.pdf)**  
 
