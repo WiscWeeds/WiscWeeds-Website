@@ -36,7 +36,7 @@ Addition of glyphosate to a synthetic auxin herbicide decreased solution pH belo
 
 + **[WiscWeeds Research Update Series, Article 1: Spray solution pH as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 1_Spray Solution pH.pdf)**
 
-+ **[WiscWeeds Research Update Series, Article 2: Soybean injury as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 2_Low tunnel volatility.pdf)** 
++ **[WiscWeeds Research Update Series, Article 2: Soybean injury as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 2_Low tunnel volatility.pdf)**
 
 ____
 
