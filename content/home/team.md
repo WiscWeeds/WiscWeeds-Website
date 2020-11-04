@@ -22,7 +22,7 @@ ____
 
 **Nick Arneson** (Weed Science Outreach Specialist):
 <center>![Ryan DeWerff] (/img/team/Nick Arneson.jpg)</center> 
-Nick is an Outreach Specialist at UW-Madison (from Omaha, Nebraska; BS and MS from University of Nebraska-Lincoln) coordinating the WiscWeeds Lab activities, Extension programming, and circulation of outreach publications. 
+Nick is an Outreach Specialist at UW-Madison (from Omaha, Nebraska; BS and MS from University of Nebraska-Lincoln) coordinating the WiscWeeds Lab activities, Extension programming, and circulation of outreach publications.  
 ____ 
 
 **Ryan DeWerff** (Weed Science Research Specialist):
