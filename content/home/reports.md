@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2020**
 
+**[2020 Pest Management Update Meetings: WiscWeeds Research Update (PDF)](/img/Reports/2020 PMU Handout_Final.pdf)** 
+
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 2: Soybean injury as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 2_Low tunnel volatility.pdf)** 
 
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 1: Spray solution pH as influenced by synthetic auxin formulation and spray additives (PDF)](/img/Update Series Articles/WWRUS Article 1_Spray Solution pH.pdf)**
@@ -29,6 +31,8 @@ weight = 30
 **[2020 Post-emergence Corn and Soybean Herbicide Product Restrictions for Broadcast Applications (PDF)](/img/2020 POST Window/2020 POST Herbicide Application Window_Final.pdf)**  
 
 ## **2019**
+
+**[2019 Pest Management Update Meetings: WiscWeeds Research Update (PDF)](/img/Reports/2019 PMU Handout_Final.pdf)** 
 
 **[Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean (PDF)](/img/2018 2019 waterhemp challenge/PreEmergence_waterhempFINAL.pdf)** 
 
