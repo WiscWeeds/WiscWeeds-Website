@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2020**
 
+**[2020 Wisconsin Weed Science Research Report (PDF)] (/img/2020 Research Report/2020 Wisconsin Weed science Research Report.pdf)**
+
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 3: Influence of sulfentrazone and metribuzin applied preemergence on soybean development and yield (PDF)](/img/Update Series Articles/WWRUS Article 3_Influence of PRE herbicides on soybean.pdf)** 
 
 **[2020 Pest Management Update Meetings: WiscWeeds Research Update (PDF)](/img/Reports/2020 PMU Handout_Final.pdf)** 
