@@ -18,6 +18,56 @@ weight = 30
 
 **[2020 Wisconsin Weed Science Research Report (PDF)] (/img/2020 Research Report/2020 Wisconsin Weed science Research Report.pdf)**
 
+*2020 Corn Weed Control Trials (field images):* 
+
++ **[Bayer Corn Herbicide Programs (PDF)] (/img/2020 Research Report/Bayer Corn Herbicide Programs.pdf)**
+
++ **[Shieldex Weed Control and Crop Safety (PDF)] (/img/2020 Research Report/Shieldex Weed Control and Crop Safety.pdf)** 
+
++ **[Corn Herbicide Evaluation 1 and 2-Pass Programs with Atrazine (PDF)] (/img/2020 Research Report/Corn Herbicide Evaluation 1 and 2-Pass Programs with Atrazine.pdf)**
+
++ **[Anthem Maxx Corn Herbicide Programs (PDF)] (/img/2020 Research Report/Anthem Maxx Corn Herbicide Programs.pdf)** 
+
++ **[Evaluation of Acuron GT in a One Pass System (PDF)] (/img/2020 Research Report/Evaluation of Acuron GT in a One Pass System.pdf)** 
+
++ **[Evaluation of Acuron GT in a Two Pass System (PDF)] (/img/2020 Research Report/Evaluation of Acuron GT in a Two Pass System.pdf)**
+
++ **[Evaluation of Acuron XR and Acuron Flexi XR (PDF)] (/img/2020 Research Report/Evaluation of Acuron XR and Acuron Flexi XR.pdf)**
+
++ **[Sinate Corn Herbicide Comparison (PDF)] (/img/2020 Research Report/Sinate Corn Herbicide Comparison.pdf)**
+
+*2020 Soybean Weed Control Trials (field images):* 
+
++ **[XtendFlex Soybean Herbicide Programs (PDF)] (/img/2020 Research Report/XtendFlex Soybean Herbicide Programs.pdf)**
+
++ **[Valent Herbicides in Enlist Soybeans (PDF)] (/img/2020 Research Report/Valent Herbicides in Enlist Soybeans.pdf)**
+
++ **[Authority Brand Herbicide Programs in Enlist Soybeans (PDF)] (/img/2020 Research Report/Authority Brand Herbicide Programs in Enlist Soybeans.pdf)**
+
++ **[Liberty and Enlist Efficacy in Enlist Soybean - BASF (PDF)] (/img/2020 Research Report/Liberty and Enlist Efficacy in Enlist Soybean - BASF.pdf)**
+
++ **[Liberty and Enlist Efficacy in Enlist Soybean - Corteva (PDF)] (/img/2020 Research Report/Liberty and Enlist Efficacy in Enlist Soybean - Corteva.pdf)**
+
++ **[Syngenta Herbicide Programs in Enlist Soybeans (PDF)] (/img/2020 Research Report/Syngenta Herbicide Programs in Enlist Soybeans.pdf)**
+
++ **[Utility of Layering Residual Herbicides in Soybean (PDF)] (/img/2020 Research Report/Utility of Layering Residual Herbicides in Soybean.pdf)**
+
++ **[Liberty Tank Mix Combinations for Waterhemp Control (PDF)] (/img/2020 Research Report/Liberty Tank Mix Combinations for Waterhemp Control.pdf)**
+
++ **[Liberty and Engenia in XtendFlex Soybean (PDF)] (/img/2020 Research Report/Liberty and Engenia in XtendFlex Soybean.pdf)**
+
++ **[Expanding Residual Control with Alite 27 (PDF)] (/img/2020 Research Report/Expanding Residual Control with Alite 27.pdf)**
+
++ **[Evaluation of Soybean Soil Residual Herbicides - Giant Ragweed (PDF)] (/img/2020 Research Report/Evaluation of Soybean Soil Residual Herbicides - Giant Ragweed.pdf)** 
+
+*2020 Bareground Weed Control Trials (field images):* 
+
++ **[Evaluation of Roundup PowerMAX 3 (PDF)] (/img/2020 Research Report/Evaluation of Roundup PowerMAX 3.pdf)**
+
++ **[Burndown Control of Giant Ragweed (PDF)] (/img/2020 Research Report/Burndown Control of Giant Ragweed.pdf)**
+
++ **[Burndown Control of Glyphosate-Resistant Waterhemp (PDF)] (/img/2020 Research Report/Burndown Control of Glyphosate-Resistant Waterhemp.pdf)** 
+
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 3: Influence of sulfentrazone and metribuzin applied preemergence on soybean development and yield (PDF)](/img/Update Series Articles/WWRUS Article 3_Influence of PRE herbicides on soybean.pdf)** 
 
 **[2020 Pest Management Update Meetings: WiscWeeds Research Update (PDF)](/img/Reports/2020 PMU Handout_Final.pdf)** 
