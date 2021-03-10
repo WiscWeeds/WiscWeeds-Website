@@ -14,6 +14,10 @@ subtitle = "Data Reports & Presentations"
 weight = 30
 
 +++
+## **2021**
+
+**[WISCWEEDS RESEARCH UPDATE SERIES, Article 4: Influence of PRE-emergence herbicides on soybean development, root nodulation and symbiotic nitrogen fixation (PDF)](/img/Update Series Articles/WWRUS Article 4_Influence of PRE herbicides on soybean N fixation.pdf)** 
+
 ## **2020**
 
 **[2020 Wisconsin Weed Science Research Report (PDF)] (/img/2020 Research Report/2020 Wisconsin Weed science Research Report.pdf)**

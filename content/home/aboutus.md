@@ -21,6 +21,9 @@ Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Ma
 <div style = "display: flex; align-items: flexstart;">  
 <div style = "width:55%"> 
 
+<center>![WiscWeeds Team 2020](/img/headers/2020WiscWeedsTeam.jpg)</center>
+<center> **2020 WiscWeeds Team**</center>
+
 <center>![WiscWeeds Team 2019](/img/headers/2019WiscWeedsTeam.jpg)</center>
 <center> **2019 WiscWeeds Team**</center>
 
@@ -33,7 +36,7 @@ Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Ma
 <!-- data-tweet-limit="3" -->
 <div style = "width:45%">
 
-<a class="twitter-timeline" href="https://twitter.com/WiscWeeds?ref_src=twsrc%5Etfw" data-height="720">Tweets by WiscWeeds</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<a class="twitter-timeline" href="https://twitter.com/WiscWeeds?ref_src=twsrc%5Etfw" data-height="920">Tweets by WiscWeeds</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 </div>  
 </div>  

@@ -40,4 +40,4 @@ weight = 80
 Rodrigo was born in a small farming community of Dutch immigrants in the state of São Paulo, in southeastern Brazil. His early passion for Agriculture led him to study Agronomy in Brazil and Weed Science at Nebraska, which then brought him and his family to beautiful Wisconsin in 2018.
 
 
-**[Rodrigo Werle - Curriculum Vitae] (/img/headers/Rodrigo Werle_Curriculum Vitae.pdf)** *(Updated: October 2020)*
+**[Rodrigo Werle - Curriculum Vitae] (/img/headers/Rodrigo Werle_Curriculum Vitae.pdf)** *(Updated: March 2021)*
