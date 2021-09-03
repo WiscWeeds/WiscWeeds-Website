@@ -20,7 +20,9 @@ We invite Wisconsin farmers and agronomists to collect waterhemp seeds this fall
 
 There is no cost associated to the herbicide resistance screening. The only cost will be your time to collect the seed samples and mail them to: **Rodrigo Werle, 1575 Linden Drive, Madison, WI 53706.** We intend to screen all waterhemp samples in the greenhouse for resistance to 2,4-D, dicamba and glufosinate.
 
-Please download and print the [**SEED COLLECTION FORM**] (/img/2018 waterhemp seed collection/2021 WiscWeeds Waterhemp Seed Project.pdf) (PDF file) for information on how to collect the seeds and fill out the information necessary for the project. Please submit the form with the seed sample. Samples will only be included in the herbicide resistance screening if the information requested herein is provided by the farmer/agronomist (field information can also be provided [**online**](https://uwmadison.co1.qualtrics.com/jfe/form/SV_3wQ6hrFrjfR0FrU)).  
+Please download the [**SEED COLLECTION FORM**] (/img/2018 waterhemp seed collection/2021 WiscWeeds Waterhemp Seed Project.pdf) (PDF file) for information on how to collect the waterhemp seeds for the project. Please fill out the information necessary for each waterhemp sample collected [**ONLINE (Qualtrics Survey)**](https://uwmadison.co1.qualtrics.com/jfe/form/SV_3wQ6hrFrjfR0FrU). 
+
+submit the form with the seed sample. Samples will only be included in the herbicide resistance screening if the information requested herein is provided by the farmer/agronomist.    
 
 For questions, please contact Rodrigo Werle via e-mail: **rwerle@wisc.edu**.  
 
