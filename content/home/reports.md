@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2021**
 
+**[WISCWEEDS RESEARCH UPDATE SERIES, Article 6: Large scale evaluation of 2,4-D choline off-target movement and injury in 2,4-D susceptible soybean (PDF)](/img/Update Series Articles/WWRUS Article 6_Large Scale 24D Choline Drift.pdf)** 
+
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 5: Evaluating efficacy of preemergence soybean herbicides using field treated soil in greenhouse bioassays (PDF)](/img/Update Series Articles/WWRUS Article 5_Efficacy of Soybean PRE Herbicides in Greenhouse Bioassays.pdf)** 
 
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 4: Influence of PRE-emergence herbicides on soybean development, root nodulation and symbiotic nitrogen fixation (PDF)](/img/Update Series Articles/WWRUS Article 4_Influence of PRE herbicides on soybean N fixation.pdf)** 
