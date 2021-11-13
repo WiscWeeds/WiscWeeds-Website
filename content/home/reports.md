@@ -16,6 +16,10 @@ weight = 30
 +++
 ## **2021**
 
+**[Application Window for Soybean Herbicides with Soil Residual Activity (PDF)](/img/2021 PMU Handouts/Soybean PRE Herbicide Application Window.pdf)** 
+
+**[2021 WiscWeeds Herbicide Comparison for Residual Weed Control in Corn (PDF)](/img/2021 PMU Handouts/2021 WiscWeeds Herbicide Comparison for Residual Weed Control in Corn.pdf)** 
+
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 6: Large scale evaluation of 2,4-D choline off-target movement and injury in 2,4-D susceptible soybean (PDF)](/img/Update Series Articles/WWRUS Article 6_Large Scale 24D Choline Drift.pdf)** 
 
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 5: Evaluating efficacy of preemergence soybean herbicides using field treated soil in greenhouse bioassays (PDF)](/img/Update Series Articles/WWRUS Article 5_Efficacy of Soybean PRE Herbicides in Greenhouse Bioassays.pdf)** 
