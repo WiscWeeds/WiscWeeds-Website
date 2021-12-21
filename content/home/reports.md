@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2021**
 
+**[WISCWEEDS RESEARCH UPDATE SERIES, Article 7: Preemergence Herbicides, Not Carrier Volume, Impacted Weed Management in Conventional Tillage Systems (PDF)](/img/Update Series Articles/WWRUS Article 7_Preemergence Carrier Volume.pdf)** 
+
 **[Application Window for Soybean Herbicides with Soil Residual Activity (PDF)](/img/2021 PMU Handouts/Soybean PRE Herbicide Application Window.pdf)** 
 
 **[2021 WiscWeeds Herbicide Comparison for Residual Weed Control in Soybeans on Sandy Soils (PDF)](/img/2021 PMU Handouts/2021 WiscWeeds Herbicide Comparison for Residual Weed Control in Soybeans on Sandy Soils.pdf)** 

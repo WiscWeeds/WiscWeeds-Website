@@ -14,7 +14,8 @@ weight = 80
     "Integrated weed management",
     "Herbicide resistance",  
     "Fate of herbicides in soil",  
-    "Herbicide evaluation"
+    "Herbicide evaluation",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,4 +41,4 @@ weight = 80
 Rodrigo was born in a small farming community of Dutch immigrants in the state of São Paulo, in southeastern Brazil. His early passion for Agriculture led him to study Agronomy in Brazil and Weed Science at Nebraska, which then brought him and his family to beautiful Wisconsin in 2018.
 
 
-**[Rodrigo Werle - Curriculum Vitae] (/img/headers/Rodrigo Werle_Curriculum Vitae.pdf)** *(Updated: October 2021)*
+**[Rodrigo Werle - Curriculum Vitae] (/img/headers/Rodrigo Werle_Curriculum Vitae.pdf)** *(Updated: December 2021)*
