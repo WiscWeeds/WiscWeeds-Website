@@ -247,7 +247,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Posts"
+  name = " Blog Posts"
   url = "#posts"
   weight = 2
   
@@ -261,31 +261,31 @@ defaultContentLanguageInSubdir = false
   url = "#coalition"
   weight = 4
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 5
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 
 
-[[menu.main]]
-  name = "Links"
-  url = "#links"  
-  weight = 6
+#[[menu.main]]
+#  name = "Links"
+#  url = "#links"  
+#  weight = 
   
 
 [[menu.main]]
   name = "Team"
   url = "#team"  
-  weight = 7
+  weight = 5
   
 [[menu.main]]
   name = "Werle Bio" 
   url = "#about"
-  weight = 8  
+  weight = 6  
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 7
 
 
   
