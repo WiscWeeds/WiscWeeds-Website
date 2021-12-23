@@ -252,7 +252,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
   
 [[menu.main]]
-  name = "Reports"
+  name = "Research Reports"
   url = "#reports"  
   weight = 3
 
