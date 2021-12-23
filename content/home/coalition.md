@@ -25,6 +25,8 @@ list_format = 0
 
 + **[Wisconsin Waterhemp Herbicide Resistance Project] (https://www.wiscweeds.info/post/wisconsin-waterhemp-herbicide-resistance-project-2019-update/)**
 
++ **[Response of Horseweed Accessions from Wisconsin and Northern Illinois to Spring Burndown Herbicides] (https://www.wiscweeds.info/post/response-of-horseweed-accessions-from-wisconsin-and-northern-illinois-to-spring-burndown-herbicides/)** 
+
 + **[Weed Seed Movement Via Combines: 2019-2020 Case Study (PDF)] (/img/2020 combine/Weed Seed Movement via Combines.pdf)** 
 
 

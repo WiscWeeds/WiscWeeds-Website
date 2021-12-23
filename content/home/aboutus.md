@@ -21,15 +21,14 @@ Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Ma
 <div style = "display: flex; align-items: flexstart;">  
 <div style = "width:55%"> 
 
+<center>![WiscWeeds Team 2021](/img/headers/2021WiscWeedsTeam.jpg)</center>
+<center> **2021 WiscWeeds Team**</center> 
+
 <center>![WiscWeeds Team 2020](/img/headers/2020WiscWeedsTeam.jpg)</center>
 <center> **2020 WiscWeeds Team**</center>
 
 <center>![WiscWeeds Team 2019](/img/headers/2019WiscWeedsTeam.jpg)</center>
 <center> **2019 WiscWeeds Team**</center>
-
-<center>![WiscWeeds Team 2018](/img/headers/2018WiscWeedsTeam.jpg)</center>
-<center> **2018 WiscWeeds Team**</center>
-
 
 </div>
 <!--https://dev.twitter.com/web/embedded-timelines/parameters -->
