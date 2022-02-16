@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2021**
 
+**[2021 Wisconsin Weed Science Research Report (PDF)] (/img/2021 Research Report/2021 Wisconsin Weed science Research Report.pdf)** 
+
 **[2021 WiscWeeds Comparison of Herbicide Programs for Conventional Corn (PDF)](/img/2021 conventional corn/Herbicide Programs for Conventional Corn_Final Report.pdf)** 
 
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 7: Preemergence Herbicides, Not Carrier Volume, Impacted Weed Management in Conventional Tillage Systems (PDF)](/img/Update Series Articles/WWRUS Article 7_Preemergence Carrier Volume.pdf)** 
