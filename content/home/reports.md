@@ -18,6 +18,54 @@ weight = 30
 
 **[2021 Wisconsin Weed Science Research Report (PDF)] (/img/2021 Research Report/2021 Wisconsin Weed science Research Report.pdf)** 
 
+*2021 Corn Weed Control Trials (field images):* 
+
++ **[Evaluation of Corn PRE-Emergence Herbicides (PDF)] (/img/2021 Research Report/Evaluation of Corn PRE-Emergence Herbicides.pdf)**
+
++ **[Weed Control and Crop Safety with EPOST Herbicide Applications (PDF)] (/img/2021 Research Report/Weed Control and Crop Safety with EPOST Herbicide Applications.pdf)**
+
++ **[Shieldex Weed Control and Crop Safety (PDF)] (/img/2021 Research Report/Shieldex Weed Control and Crop Safety.pdf)**
+
++ **[Reviton Burndown Programs in Corn (PDF)] (/img/2021 Research Report/Reviton Burndown Programs in Corn.pdf)**
+
++ **[Restraint Weed Control and Crop Safety (PDF)] (/img/2021 Research Report/Restraint Weed Control and Crop Safety.pdf)**
+
++ **[POST and Sequential Weed Control with Maverick (PDF)] (/img/2021 Research Report/POST and Sequential Weed Control with Maverick.pdf)**
+
++ **[Evaluation of Acuron GT in a Two-Pass System (PDF)] (/img/2021 Research Report/Evaluation of Acuron GT in a Two-Pass System.pdf)**
+
++ **[Corn Herbicide Showcase (PDF)] (/img/2021 Research Report/Corn Herbicide Showcase.pdf)**
+
++ **[Bayer and Valent Corn Herbicide Programs (PDF)] (/img/2021 Research Report/Bayer and Valent Corn Herbicide Programs.pdf)**
+
+*2021 Soybean Weed Control Trials (field images):* 
+
++ **[XtendiMax Paired Soil Residual Herbicide Programs (PDF)] (/img/2021 Research Report/XtendiMax Paired Soil Residual Herbicide Programs.pdf)**
+
++ **[XtendFlex Soybean Herbicide Programs (PDF)] (/img/2021 Research Report/XtendFlex Soybean Herbicide Programs.pdf)**
+
++ **[XtendFlex Soybean Herbicide Programs for ESA Counties (PDF)] (/img/2021 Research Report/XtendFlex Soybean Herbicide Programs for ESA Counties.pdf)**
+
++ **[XtendFlex Soybean Herbicide Programs for ESA Counties - DataTable (PDF)] (/img/2021 Research Report/XtendFlex Soybean Herbicide Programs for ESA Counties_DataTable.pdf)**
+
++ **[Reviton Burndown Programs in Soybean (PDF)] (/img/2021 Research Report/Reviton Burndown Programs in Soybean.pdf)**
+
++ **[MON 301668 Residual Weed Control and Crop Safety (PDF)] (/img/2021 Research Report/MON 301668 Residual Weed Control and Crop Safety.pdf)**
+
++ **[Liberty Tank Mix Combinations - Crop Tolerance (PDF)] (/img/2021 Research Report/Liberty Tank Mix Combinations - Crop Tolerance.pdf)**
+
++ **[Evaluation of Tendovo for Residual Weed Control and Crop Safety (PDF)] (/img/2021 Research Report/Evaluation ofTendovo for Residual Weed Control and Crop Safety.pdf)**
+
++ **[Evaluation of Preview 2.1SC for Residual Weed Control and Crop Safety (PDF)] (/img/2021 Research Report/Evaluation of Preview 2.1SC for Residual Weed Control and Crop Safety.pdf)**
+
++ **[Evaluation of Layered Residual Herbicide Programs in Enlist Soybean (PDF)] (/img/2021 Research Report/Evaluation of Layered Residual Herbicide Programs in Enlist Soybean.pdf)**
+
++ **[Authority Supreme-Edge and Anthem Maxx Herbicide Programs (PDF)] (/img/2021 Research Report/Authority Supreme-Edge and Anthem Maxx Herbicide Programs.pdf)**
+
+*2021 Bareground Weed Control Trials (field images):* 
+
++ **[Burndown Control of Giant Ragweed (PDF)] (/img/2021 Research Report/Burndown Control of Giant Ragweed.pdf)**
+
 **[2021 WiscWeeds Comparison of Herbicide Programs for Conventional Corn (PDF)](/img/2021 conventional corn/Herbicide Programs for Conventional Corn_Final Report.pdf)** 
 
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 7: Preemergence Herbicides, Not Carrier Volume, Impacted Weed Management in Conventional Tillage Systems (PDF)](/img/Update Series Articles/WWRUS Article 7_Preemergence Carrier Volume.pdf)** 
