@@ -10,7 +10,7 @@ title = "Wisconsin Weed Science"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2021 WiscWeeds"
+copyright = "&copy; 2022 WiscWeeds"
 
 theme = "hugo-academic"
 enableEmoji = true
