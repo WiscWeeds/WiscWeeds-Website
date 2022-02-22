@@ -46,8 +46,6 @@ weight = 30
 
 + **[XtendFlex Soybean Herbicide Programs for ESA Counties (PDF)] (/img/2021 Research Report/XtendFlex Soybean Herbicide Programs for ESA Counties.pdf)**
 
-+ **[XtendFlex Soybean Herbicide Programs for ESA Counties - DataTable (PDF)] (/img/2021 Research Report/XtendFlex Soybean Herbicide Programs for ESA Counties_DataTable.pdf)**
-
 + **[Reviton Burndown Programs in Soybean (PDF)] (/img/2021 Research Report/Reviton Burndown Programs in Soybean.pdf)**
 
 + **[MON 301668 Residual Weed Control and Crop Safety (PDF)] (/img/2021 Research Report/MON 301668 Residual Weed Control and Crop Safety.pdf)**
