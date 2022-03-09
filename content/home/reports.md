@@ -14,6 +14,10 @@ subtitle = "Data Reports & Presentations"
 weight = 30
 
 +++
+## **2022**
+
+**[WISCWEEDS RESEARCH UPDATE SERIES, Article 8: Influence of Integrated Agronomic and Weed Management Practices on Soybean Canopy Development and Yield (PDF)](/img/Update Series Articles/WWRUS Article 8_Canopy Closure.pdf)** 
+
 ## **2021**
 
 **[2021 Wisconsin Weed Science Research Report (PDF)] (/img/2021 Research Report/2021 Wisconsin Weed science Research Report.pdf)** 
