@@ -16,6 +16,10 @@ weight = 30
 +++
 ## **2022**
 
+**[Winter Wheat Rotational Restrictions Following Common Soybean Residual Herbicides (PDF)](/img/2022 wheat following soy/Residual Plant Back Restrictions for Wheat.pdf)** 
+
+**[Weed Suppression in Corn-Soy Systems with Cereal Rye (Story Map)](https://storymaps.arcgis.com/stories/273d046d86da4a1ebaedbaea4267a9f4)** 
+
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 8: Influence of Integrated Agronomic and Weed Management Practices on Soybean Canopy Development and Yield (PDF)](/img/Update Series Articles/WWRUS Article 8_Canopy Closure.pdf)** 
 
 ## **2021**
