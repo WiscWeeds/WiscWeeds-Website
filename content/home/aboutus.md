@@ -14,7 +14,7 @@ subtitle = "WiscWeeds Program"
 weight = 10
 
 +++
-Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Madison focuses on agroecologically-based approaches to address sustainable weed management in corn, soybeans and small grains in Wisconsin and beyond. Our program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security.
+Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Madison focuses on agroecologically-based approaches to address sustainable weed management in corn, soybeans and small grains in Wisconsin and beyond. Our program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security. **[Click to download the WiscWeeds Team Program Statement!](/img/headers/UW_WiscWeedsStatement.pdf)**    
 ![WiscWeeds Logo](/img/headers/WiscWeeds_NewLogo.jpg)
 
 <meta name="twitter:dnt" content="on">  
