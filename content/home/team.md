@@ -60,6 +60,11 @@ ____
 Tatiane is a visiting Weed Science PhD graduate student at UW-Madison (from Pernambuco, Brazil; BS from Maranhao State University, MS from the Federal Rural University of the Semi-Arid) investigating the soil residual activity of PRE-emergence corn herbicides and their impact on the establishment of multiple cover crop species. In Brazil, she conducted research evaluating herbicide carryover and fate in the environment. 
 ____
 
+**Guilherme Chudzik** (MS Weed Science Graduate Student):
+<center>![] (/img/team/Guilherme Chudzik.jpeg)</center>
+Guilherme is a Weed Science MS graduate student at UW-Madison (from Sao Paulo, Brazil; BS from the University of Sao Paulo) working on weed management in early-planted soybeans.
+____
+
 <center>![WiscWeeds Team 2021](/img/headers/2021WiscWeedsTeam.jpg)</center>
 <center> **2021 WiscWeeds Team**</center> 
 ____

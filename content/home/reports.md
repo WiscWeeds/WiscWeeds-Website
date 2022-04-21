@@ -16,6 +16,8 @@ weight = 30
 +++
 ## **2022**
 
+**[Don't Catch My Drift? Let's Check Under the Spray Hood (Story Map)](https://storymaps.arcgis.com/stories/c42d3613af9647749d54cb66011654b2)**  
+
 **[Winter Wheat Rotational Restrictions Following Common Soybean Residual Herbicides (PDF)](/img/2022 wheat following soy/Residual Plant Back Restrictions for Wheat.pdf)** 
 
 **[Weed Suppression in Corn-Soy Systems with Cereal Rye (Story Map)](https://storymaps.arcgis.com/stories/273d046d86da4a1ebaedbaea4267a9f4)** 
