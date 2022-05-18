@@ -14,7 +14,8 @@ subtitle = "WiscWeeds Lab"
 weight = 70
 
 +++
-
+<center>**[Meet the 2022 WiscWeeds Team - CLICK HERE](https://storymaps.arcgis.com/stories/b1bde13414204805859f8a56e0e65b3b)**</center>
+____
 **Rodrigo Werle** (Assistant Professor & Extension Cropping Systems Weed Scientist):
 <center>![Rodrigo Werle] (/img/team/Rodrigo Werle.jpg)</center>
 Dr. Werle is an Assistant Professor and Extension Cropping Systems Weed Scientist at UW-Madison (from Sao Paulo, Brazil; BS from Sao Paulo State University, and MS and PhD from the University of Nebraska-Lincoln) leading the Research and Extension efforts of the WiscWeeds Program (See “Werle Bio” tab for additional information). 
