@@ -16,7 +16,13 @@ weight = 30
 +++
 ## **2022**
 
+**[No Time to Panic When Your Sweet Corn Field Sours (Story Map)](https://storymaps.arcgis.com/stories/59967888d16d49c3b6cccc3130e7b994)** 
+ 
+**[Palmer amaranth: The Pest That Doesn’t Pull Any Punches (Story Map)](https://storymaps.arcgis.com/stories/95bf678bfd5549fbb0e61f0e995f6ea3)** 
+
 **[Don't Catch My Drift? Let's Check Under the Spray Hood (Story Map)](https://storymaps.arcgis.com/stories/c42d3613af9647749d54cb66011654b2)**  
+
+**[Cereal Rye Cover Crop Management in Wisconsin (PDF)] (https://ipcm.wisc.edu/download/pubsNM/UW_CerealRyeMgmt_final.pdf)**
 
 **[Winter Wheat Rotational Restrictions Following Common Soybean Residual Herbicides (PDF)](/img/2022 wheat following soy/Residual Plant Back Restrictions for Wheat.pdf)** 
 
@@ -75,6 +81,8 @@ weight = 30
 + **[Burndown Control of Giant Ragweed (PDF)] (/img/2021 Research Report/Burndown Control of Giant Ragweed.pdf)**
 
 **[2021 WiscWeeds Comparison of Herbicide Programs for Conventional Corn (PDF)](/img/2021 conventional corn/Herbicide Programs for Conventional Corn_Final Report.pdf)** 
+
+**[Understanding Dicamba Volatility (PDF)] (https://ipcm.wisc.edu/download/pubsPM/DicambaVolatility_final.pdf)** 
 
 **[WISCWEEDS RESEARCH UPDATE SERIES, Article 7: Preemergence Herbicides, Not Carrier Volume, Impacted Weed Management in Conventional Tillage Systems (PDF)](/img/Update Series Articles/WWRUS Article 7_Preemergence Carrier Volume.pdf)** 
 
