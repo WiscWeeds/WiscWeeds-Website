@@ -14,7 +14,7 @@ subtitle = "WiscWeeds Lab"
 weight = 70
 
 +++
-<center>**[Meet the 2022 WiscWeeds Team - CLICK HERE](https://storymaps.arcgis.com/stories/b1bde13414204805859f8a56e0e65b3b)**</center>
+<center>**[Click HERE to meet the 2022 WiscWeeds Team](https://storymaps.arcgis.com/stories/b1bde13414204805859f8a56e0e65b3b)**</center>
 ____
 **Rodrigo Werle** (Assistant Professor & Extension Cropping Systems Weed Scientist):
 <center>![Rodrigo Werle] (/img/team/Rodrigo Werle.jpg)</center>
@@ -31,19 +31,23 @@ ____
 Ryan is a Weed Science Research Specialist at UW-Madison (from Nokomis, Illinois; BS from the University of Illinois and MS from the University of Wisconsin-Madison) managing the Wisconsin Herbicide Evaluation Program and providing technical assistance for ongoing program and graduate student research projects.
 ____
 
-**Nikola Arsenijevic** (Weed Science Research Assistant):
-<center>![Nikola Arsenijevic] (/img/team/Nikola Arsenijevic.png)</center>
-Nikola is a Weed Science research assistant (from Serbia; BS from the University of Belgrade and MS from the University of Wisconsin-Madison) evaluating integrated weed management strategies in corn and soybean production systems, assisting the Wisconsin Herbicide Evaluation Program, and providing technical assistance for ongoing program and graduate student research projects. 
+**Ahmad Mobli** (Weed Science Postdoctoral Research Associate):
+<center>![Ahmad Mobli] (/img/team/Ahmad Mobli.jpeg)</center>
+Dr. Mobli is a Weed Science Postdoctoral Research Associate at UW-Madison.
 ____
 
 **Dan Smith** (UW-NPM Southwest Wisconsin Regional Agronomy Specialist):
 <center>![Dan Smith] (/img/team/Dan Smith.jpg)</center>  
 Dan is a Southwest Regional Agronomist for the UW-Madison Nutrient and Pest Management Program (from Walnut, Illinois; BS from the University of Wisconsin-Platteville and MS from the University of Wisconsin-Madison) providing technical assistance towards weed science research and outreach activities. 
 ____
-
 [**Maxwel Coura Oliveira**] (https://maxweeds.rbind.io/) (Weed Science Postdoctoral Research Associate):
 <center>![Maxwel Oliveira] (/img/team/Maxwel Oliveira.jpg)</center>
 Dr. Oliveira is a Weed Science Postdoctoral Research Associate at UW-Madison (from Minas Gerais, Brazil; BS and MS from the Federal University of Jequitinhonha and Mucuri Valleys, and PhD from the University of Nebraska-Lincoln) investigating the distribution and management of herbicide-resistant weeds in Wisconsin and evaluating weed management strategies in corn, soybeans, and small grains. He trains the Badger Weeds Team, mentors graduate and undergraduate students in the Cropping Systems Weed Science program and assists with the Wisconsin Herbicide Evaluation Program.
+____
+
+**Nikola Arsenijevic** (PhD Weed Science Graduate Student):
+<center>![Nikola Arsenijevic] (/img/team/Nikola Arsenijevic.png)</center>
+Nikola is a Weed Science PhD graduate student at UW-Madison (from Serbia; BS from the University of Belgrade and MS from the University of Wisconsin-Madison) working on strategies to enhance glusofinate weed control efficacy and use of drones for weed mapping. 
 ____
 
 **Felipe Faleco** (PhD Weed Science Graduate Student):
@@ -60,14 +64,23 @@ ____
 <center>![Jose Jr Nunes] (/img/team/Tatiane Severo.jpg)</center>
 Tatiane is a visiting Weed Science PhD graduate student at UW-Madison (from Pernambuco, Brazil; BS from Maranhao State University, MS from the Federal Rural University of the Semi-Arid) investigating the soil residual activity of PRE-emergence corn herbicides and their impact on the establishment of multiple cover crop species. In Brazil, she conducted research evaluating herbicide carryover and fate in the environment. 
 ____
+**Zaim Ugljic** (PhD Weed Science Graduate Student):
+<center>![Zaim Ugljic] (/img/team/Zaim Ugljic.jpg)</center>
+Zaim is a Weed Science PhD graduate student at UW-Madison (from Pancevo, Serbia; BS from the University of Belgrade; MS from Mississippi State University) focusing on novel smart-spraying technologies. 
+____
 
 **Guilherme Chudzik** (MS Weed Science Graduate Student):
 <center>![] (/img/team/Guilherme Chudzik.jpeg)</center>
 Guilherme is a Weed Science MS graduate student at UW-Madison (from Sao Paulo, Brazil; BS from the University of Sao Paulo) working on weed management in early-planted soybeans.
 ____
 
-<center>![WiscWeeds Team 2021](/img/headers/2021WiscWeedsTeam.jpg)</center>
-<center> **2021 WiscWeeds Team**</center> 
+**Jacob Felsman** (MS Weed Science Graduate Student):
+<center>![Jacob Felsman] (/img/team/Jacob Felsman.jpg)</center>
+Jacob is a Weed Science MS graduate student at UW-Madison (from Pesotum, IL; BS from the University of Illinois) investigating weed management in corn-soybean cover cropping systems.
+____
+
+<center>![WiscWeeds Team 2022](/img/headers/2022WiscWeedsTeam.jpg)</center>
+<center> **2022 WiscWeeds Team**</center> 
 ____
 
 ## **Former Lab Members**  
