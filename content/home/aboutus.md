@@ -14,12 +14,12 @@ subtitle = "WiscWeeds Program"
 weight = 10
 
 +++
-Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Madison focuses on agroecologically-based approaches to address sustainable weed management in corn, soybeans and small grains in Wisconsin and beyond. Our program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security. **[Click to download the WiscWeeds Team Program Statement!](/img/headers/UW_WiscWeedsStatement.pdf)**    
+Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Madison focuses on agroecologically-based approaches to address sustainable weed management in corn, soybeans and small grains in Wisconsin and beyond. Our program also focuses on weed management strategies that can help address herbicide resistance, protect water quality, enhance agroecosystems services and increase food security. **[Click to download the WiscWeeds Team Program Statement.](/img/headers/UW_WiscWeedsStatement.pdf)**    
 ![WiscWeeds Logo](/img/headers/WiscWeeds_NewLogo.jpg)
 
 <meta name="twitter:dnt" content="on">  
 <div style = "display: flex; align-items: flexstart;">  
-<div style = "width:65%"> 
+<div style = "width:55%"> 
 
 <center>![WiscWeeds Team 2022](/img/headers/2022WiscWeedsTeam.jpg)</center>
 <center> **2022 WiscWeeds Team**</center> 
@@ -27,7 +27,7 @@ Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Ma
 <center>![WiscWeeds Team 2021](/img/headers/2021WiscWeedsTeam.jpg)</center>
 <center> **2021 WiscWeeds Team**</center>
 
-<center>![WiscWeeds Team 2010](/img/headers/2020WiscWeedsTeam.jpg)</center>
+<center>![WiscWeeds Team 2020](/img/headers/2020WiscWeedsTeam.jpg)</center>
 <center> **2020 WiscWeeds Team**</center>
 
 </div>
@@ -35,7 +35,7 @@ Our Research and Extension Program (WiscWeeds) at the University of Wisconsin-Ma
 <!-- data-tweet-limit="3" -->
 <div style = "width:45%">
 
-<a class="twitter-timeline" href="https://twitter.com/WiscWeeds?ref_src=twsrc%5Etfw" data-height="920">Tweets by WiscWeeds</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<a class="twitter-timeline" href="https://twitter.com/WiscWeeds?ref_src=twsrc%5Etfw" data-height="820">Tweets by WiscWeeds</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 </div>  
 </div>  
