@@ -33,7 +33,7 @@ ____
 
 **Ahmad Mobli** (Weed Science Postdoctoral Research Associate):
 <center>![Ahmad Mobli] (/img/team/Ahmad Mobli.jpeg)</center>
-Dr. Mobli is a Weed Science Postdoctoral Research Associate at UW-Madison (from Isfahan, Iran; BS from Azad University Isfahan Branch, Iran; MS from the University of Tabriz, Iran; Ph.D. from Ferdowsi University of Mashhad, Iran and visiting scholar at Queensland Alliance for Agriculture and Food Innovation, the University of Queensland, Australia) investigating integrated weed management for soybean and corn production systems. His research focuses on a diverse range of weed management strategies, especially the implication of ecological strategies in weed management programs. He is passionate about agronomic crops, weed science, and data communication.
+Dr. Mobli is a Weed Science Postdoctoral Research Associate at UW-Madison (from Isfahan, Iran; BS from Azad University Isfahan Branch, Iran; MS from the University of Tabriz, Iran; Ph.D. from Ferdowsi University of Mashhad, Iran and visiting scholar at Queensland Alliance for Agriculture and Food Innovation, the University of Queensland, Australia) investigating integrated weed management for soybean and corn production systems. His research focuses on a diverse range of weed management strategies, especially the implication of ecological strategies in weed management programs. He is passionate about agronomic crops, weed science, and science communication.
 ____
 
 **Dan Smith** (UW-NPM Southwest Wisconsin Regional Agronomy Specialist):
